@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Àlex Pujol Vidal" 
+    title: "Àlex" 
     subtitle: "Mathematics and Data Science"
     imageUrl: "<img location>"
     imageWidth: 120
