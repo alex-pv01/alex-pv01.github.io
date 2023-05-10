@@ -77,12 +77,14 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    #- name: twitter
+    #  url: "https://twitter.com/"
+    #- name: stackoverflow
+    #  url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/alex-pv01"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/alexpujolv/"
 
   analytics:
     google:
@@ -124,7 +126,7 @@ menu:
       weight: 20
     - identifier: bechained
       name: bechained.com
-      url: https://bechained.com/?page_id=606&lang=en
+      url: https://bechained.com/
       weight: 30
     - identifier: countop
       name: countop.com
