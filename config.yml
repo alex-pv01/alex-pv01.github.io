@@ -1,5 +1,5 @@
 baseURL: "https://alex-pv01.github.io/my-site/"
-title: ExampleSite
+title: Àlex
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Àlex' personal site
+  description: "This is the personal site from Àlex Pujol. This includes his portfollio, CV, contact and blog"
   keywords: [Blog, Portfolio, Math, Data, Science, AI, ML]
   author: Àlex
   # author: ["Me", "You"] # multiple authors
