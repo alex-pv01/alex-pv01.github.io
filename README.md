@@ -1,6 +1,6 @@
 # **Welcome**
 
-This is the repository for [my pesroonal site](https://alex-pv01.github.io/my-site/). Please be patient, it is under construction.
+This is the repository for [my personal site](https://alex-pv01.github.io/my-site/). Please be patient, it is under construction.
 
 ---
 

@@ -122,10 +122,14 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: bechained
+      name: bechained.com
+      url: https://bechained.com/?page_id=606&lang=en
       weight: 30
+    - identifier: countop
+      name: countop.com
+      url: https://www.countop.com/
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
