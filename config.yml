@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Àlex" 
     subtitle: "Mathematics and Data Science"
-    imageUrl: "/public/profile1.jpeg"
+    imageUrl: "profile1.jpeg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image :)
