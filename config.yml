@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Àlex" 
     subtitle: "Mathematics and Data Science"
-    imageUrl: "https://alex-pv01.github.io/my-site/profile1.jpeg"
+    imageUrl: "https://alex-pv01.github.io/my-site/static/profile1.jpeg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image :D
@@ -124,14 +124,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: bechained
-      name: bechained.com
-      url: https://bechained.com/
-      weight: 30
     - identifier: countop
       name: countop.com
       url: https://www.countop.com/
-      weight: 40
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
