@@ -65,7 +65,7 @@ params:
     imageUrl: "/profile1.jpeg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image :)
+    imageTitle: my image :D
     buttons:
       - name: Posts
         url: posts
