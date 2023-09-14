@@ -64,7 +64,7 @@ params:
     imageUrl: "https://alex-pv01.github.io/my-site/profile1.jpeg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image :)
+    imageTitle: my image :D
     buttons:
       - name: Posts
         url: posts
