@@ -1,4 +1,5 @@
-baseURL: "https://alex-pv01.github.io/my-site/"
+#baseURL: "https://alex-pv01.github.io/my-site/"
+baseURL: "https://alex-pv01.github.io/"
 title: Àlex
 paginate: 5
 theme: PaperMod
@@ -61,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Àlex" 
     subtitle: "Mathematics and Data Science"
-    imageUrl: "/assets/profile1.jpeg"
+    imageUrl: "/profile1.jpeg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image :)
