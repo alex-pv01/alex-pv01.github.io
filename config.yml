@@ -61,10 +61,10 @@ params:
     enabled: true # needs to be explicitly set
     title: "Àlex" 
     subtitle: "Mathematics and Data Science"
-    imageUrl: "/my-site/profile1.jpeg"
+    imageUrl: "/assets/profile1.jpeg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image :D
+    imageTitle: my image :)
     buttons:
       - name: Posts
         url: posts
