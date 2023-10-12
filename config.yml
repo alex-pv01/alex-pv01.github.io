@@ -62,14 +62,14 @@ params:
     title: "Àlex" 
     subtitle: "Mathematics and Data Science"
     imageUrl: "profile1.jpeg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 256
+    imageHeight: 256
     imageTitle: my image :)
     buttons:
       - name: Posts
-        url: posts
+        url: "/posts"
       - name: Tags
-        url: tags
+        url: "/tags"
 
   # home-info mode
   homeInfoParams:
@@ -100,7 +100,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/alex-pv01/alex-pv01.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -116,13 +116,13 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: archives
+      name: archives
+      url: /archives/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: search
+      name: search
+      url: /search/
       weight: 20
     - identifier: countop
       name: countop.com
@@ -138,3 +138,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
