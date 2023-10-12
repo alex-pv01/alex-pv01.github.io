@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "What are Binary Diffusion Models?"
 date: 2023-10-12T18:34:11+02:00
 draft: true
 ---
