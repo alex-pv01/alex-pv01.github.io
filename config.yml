@@ -19,7 +19,7 @@ params:
   title: Àlex' personal site
   description: "This is the personal site from Àlex Pujol. This includes his portfollio, CV, contact and blog"
   keywords: [Blog, Portfolio, Math, Data, Science, AI, ML]
-  author: Àlex
+  author: Àlex Pujol Vidal
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2023"
@@ -28,10 +28,10 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false

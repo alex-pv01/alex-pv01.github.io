@@ -1,0 +1,57 @@
+@media not speech {
+    body {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 28em) {
+    body {
+        font-size: 13px;
+    }
+}
+
+@media screen and (min-width: 36em) {
+    body {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 48em) {
+    body {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 56em) {
+    body {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 64em) {
+    body {
+        font-size: 17px;
+    }
+}
+
+.entry-footer,
+.footer,
+.post-meta {
+    font-size: .8em;
+}
+
+#menu a,
+.pagination a {
+    font-size: .9em;
+}
+
+.logo a {
+    font-size: 1.6em;
+}
+
+.archive-meta,
+.entry-content,
+.page-content,
+.page-footnote {
+    font-size: .9em;
+}
