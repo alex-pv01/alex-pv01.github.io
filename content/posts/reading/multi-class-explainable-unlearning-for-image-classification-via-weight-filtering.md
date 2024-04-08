@@ -1,6 +1,6 @@
 ---
 title: "Notes on Multi Class Explainable Unlearning for Image Classification via Weight Filtering"
-date: 2024-04-08T09:36:22+02:00
+date: 2024-04-08
 draft: false
 math: true
 
