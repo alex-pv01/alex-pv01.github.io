@@ -116,18 +116,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: archives
-      name: archives
-      url: /archives/
-      weight: 10
+    # - identifier: archives
+    #   name: archives
+    #   url: /archives/
+    #   weight: 10
     - identifier: search
       name: search
       url: /search/
       weight: 20
-    - identifier: countop
-      name: countop.com
-      url: https://www.countop.com/
-      weight: 30
+    # - identifier: countop
+    #   name: countop.com
+    #   url: https://www.countop.com/
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

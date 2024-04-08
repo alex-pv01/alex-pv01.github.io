@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alex-pv01.github.io/</loc>
+    <lastmod>2024-04-08T09:36:22+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/posts/</loc>
+    <lastmod>2024-04-08T09:36:22+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/posts/2023-12-18-about-dpm/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/ai/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/diffusion/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/dpm/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/gaussian/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/markov-chain/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/model/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/nonequilibrium/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/probabilistic/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/thermodynamics/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/archives/</loc>
   </url><url>
     <loc>https://alex-pv01.github.io/categories/</loc>
   </url><url>
     <loc>https://alex-pv01.github.io/search/</loc>
-  </url><url>
-    <loc>https://alex-pv01.github.io/tags/</loc>
   </url>
 </urlset>

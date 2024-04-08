@@ -10,6 +10,88 @@
       <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://alex-pv01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Dec 2023 18:06:41 +0100</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://alex-pv01.github.io/tags/ai/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion</title>
+      <link>https://alex-pv01.github.io/tags/diffusion/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dpm</title>
+      <link>https://alex-pv01.github.io/tags/dpm/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/dpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian</title>
+      <link>https://alex-pv01.github.io/tags/gaussian/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Chain</title>
+      <link>https://alex-pv01.github.io/tags/markov-chain/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/markov-chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model</title>
+      <link>https://alex-pv01.github.io/tags/model/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonequilibrium</title>
+      <link>https://alex-pv01.github.io/tags/nonequilibrium/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/nonequilibrium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic</title>
+      <link>https://alex-pv01.github.io/tags/probabilistic/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics</title>
+      <link>https://alex-pv01.github.io/tags/thermodynamics/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/thermodynamics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
