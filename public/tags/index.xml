@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Àlex</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://alex-pv01.github.io/tags/</link>
     <description>Recent content in Tags on Àlex</description>
     <image>
       <title>Àlex</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Apr 2024 09:36:22 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Apr 2024 09:36:22 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://alex-pv01.github.io/tags/ai/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://alex-pv01.github.io/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explainable AI</title>
-      <link>http://localhost:1313/tags/explainable-ai/</link>
+      <link>https://alex-pv01.github.io/tags/explainable-ai/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/explainable-ai/</guid>
+      <guid>https://alex-pv01.github.io/tags/explainable-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Classification</title>
-      <link>http://localhost:1313/tags/image-classification/</link>
+      <link>https://alex-pv01.github.io/tags/image-classification/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/image-classification/</guid>
+      <guid>https://alex-pv01.github.io/tags/image-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Unlearning</title>
-      <link>http://localhost:1313/tags/machine-unlearning/</link>
+      <link>https://alex-pv01.github.io/tags/machine-unlearning/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/machine-unlearning/</guid>
+      <guid>https://alex-pv01.github.io/tags/machine-unlearning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Class</title>
-      <link>http://localhost:1313/tags/multi-class/</link>
+      <link>https://alex-pv01.github.io/tags/multi-class/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/multi-class/</guid>
+      <guid>https://alex-pv01.github.io/tags/multi-class/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper</title>
-      <link>http://localhost:1313/tags/paper/</link>
+      <link>https://alex-pv01.github.io/tags/paper/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/paper/</guid>
+      <guid>https://alex-pv01.github.io/tags/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>https://alex-pv01.github.io/tags/research/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>https://alex-pv01.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weight Filtering</title>
-      <link>http://localhost:1313/tags/weight-filtering/</link>
+      <link>https://alex-pv01.github.io/tags/weight-filtering/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/weight-filtering/</guid>
+      <guid>https://alex-pv01.github.io/tags/weight-filtering/</guid>
       <description></description>
     </item>
     
