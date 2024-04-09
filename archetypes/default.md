@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+math: true
 
 cover:
     image: "<image path/url>"
@@ -13,7 +14,7 @@ cover:
 
 tags: []
 
-ShowToc: true
+ShowToc: false
 ---
 
 ***Disclaimer:*** *This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.*
