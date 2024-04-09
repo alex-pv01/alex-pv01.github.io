@@ -11,13 +11,58 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Apr 2024 09:36:22 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Apr 2024 10:13:13 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://alex-pv01.github.io/tags/ai/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
       
       <guid>https://alex-pv01.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNN</title>
+      <link>https://alex-pv01.github.io/tags/dnn/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/dnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Unlearning</title>
+      <link>https://alex-pv01.github.io/tags/machine-unlearning/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/machine-unlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed-Privacy Forgetting</title>
+      <link>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://alex-pv01.github.io/tags/paper/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://alex-pv01.github.io/tags/research/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/research/</guid>
       <description></description>
     </item>
     
@@ -40,38 +85,11 @@
     </item>
     
     <item>
-      <title>Machine Unlearning</title>
-      <link>https://alex-pv01.github.io/tags/machine-unlearning/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
-      
-      <guid>https://alex-pv01.github.io/tags/machine-unlearning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multi-Class</title>
       <link>https://alex-pv01.github.io/tags/multi-class/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
       <guid>https://alex-pv01.github.io/tags/multi-class/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paper</title>
-      <link>https://alex-pv01.github.io/tags/paper/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
-      
-      <guid>https://alex-pv01.github.io/tags/paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://alex-pv01.github.io/tags/research/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
-      
-      <guid>https://alex-pv01.github.io/tags/research/</guid>
       <description></description>
     </item>
     
@@ -85,29 +103,38 @@
     </item>
     
     <item>
-      <title>Dl</title>
-      <link>https://alex-pv01.github.io/tags/dl/</link>
+      <title>Attention Mechanisms</title>
+      <link>https://alex-pv01.github.io/tags/attention-mechanisms/</link>
       <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
       
-      <guid>https://alex-pv01.github.io/tags/dl/</guid>
+      <guid>https://alex-pv01.github.io/tags/attention-mechanisms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nlp</title>
-      <link>https://alex-pv01.github.io/tags/nlp/</link>
+      <title>Deep Learning</title>
+      <link>https://alex-pv01.github.io/tags/deep-learning/</link>
       <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
       
-      <guid>https://alex-pv01.github.io/tags/nlp/</guid>
+      <guid>https://alex-pv01.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Py</title>
-      <link>https://alex-pv01.github.io/tags/py/</link>
+      <title>Machine Translation</title>
+      <link>https://alex-pv01.github.io/tags/machine-translation/</link>
       <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
       
-      <guid>https://alex-pv01.github.io/tags/py/</guid>
+      <guid>https://alex-pv01.github.io/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://alex-pv01.github.io/tags/natural-language-processing/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
