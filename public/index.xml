@@ -34,6 +34,16 @@ The following post is a comment on the paper Multi Class Explainable Unlearning 
 Samuele P., et. al.</description>
     </item>
     
+    <item>
+      <title>Attention and Context based Embeddings</title>
+      <link>https://alex-pv01.github.io/posts/attention/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/posts/attention/</guid>
+      <description>Attention mechanisms are a type of techniques used in natural language processing (NLP) tasks that allow a model to focus on specific parts of the input when processing a sequence, rather than considering the entire sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.
+To some extend, attention mechanisms are motivated by how human visual attention focuses on different regions of an image or how correlates words in a sentence.</description>
+    </item>
+    
     
     
   </channel>

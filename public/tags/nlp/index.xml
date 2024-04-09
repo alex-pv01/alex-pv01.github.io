@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nlp on Àlex</title>
+    <link>https://alex-pv01.github.io/tags/nlp/</link>
+    <description>Recent content in Nlp on Àlex</description>
+    <image>
+      <title>Àlex</title>
+      <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Dec 2022 17:51:02 +0100</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attention and Context based Embeddings</title>
+      <link>https://alex-pv01.github.io/posts/attention/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/posts/attention/</guid>
+      <description>Attention mechanisms are a type of techniques used in natural language processing (NLP) tasks that allow a model to focus on specific parts of the input when processing a sequence, rather than considering the entire sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.
+To some extend, attention mechanisms are motivated by how human visual attention focuses on different regions of an image or how correlates words in a sentence.</description>
+    </item>
+    
+  </channel>
+</rss>
