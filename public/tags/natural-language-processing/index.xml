@@ -14,10 +14,10 @@
     <lastBuildDate>Sat, 17 Dec 2022 17:51:02 +0100</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attention and Context based Embeddings</title>
-      <link>https://alex-pv01.github.io/posts/attention/</link>
+      <link>https://alex-pv01.github.io/posts/2022-12-17-attention/</link>
       <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
       
-      <guid>https://alex-pv01.github.io/posts/attention/</guid>
+      <guid>https://alex-pv01.github.io/posts/2022-12-17-attention/</guid>
       <description>Attention mechanisms are a type of techniques used in natural language processing (NLP) tasks that allow a model to focus on specific parts of the input when processing a sequence, rather than considering the entire sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.
 To some extend, attention mechanisms are motivated by how human visual attention focuses on different regions of an image or how correlates words in a sentence.</description>
     </item>
