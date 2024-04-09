@@ -10,16 +10,6 @@
       <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 17 Dec 2022 17:51:02 +0100</lastBuildDate><atom:link href="https://alex-pv01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Deep Learning</title>
-      <link>https://alex-pv01.github.io/categories/deep-learning/</link>
-      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
-      
-      <guid>https://alex-pv01.github.io/categories/deep-learning/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://alex-pv01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

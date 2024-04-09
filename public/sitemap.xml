@@ -17,7 +17,7 @@
     <loc>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</loc>
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/reading/mixed-privacy-forgetting-in-deep-networks/</loc>
+    <loc>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</loc>
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/paper/</loc>
@@ -41,7 +41,7 @@
     <loc>https://alex-pv01.github.io/tags/multi-class/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/reading/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</loc>
+    <loc>https://alex-pv01.github.io/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/weight-filtering/</loc>
@@ -53,13 +53,7 @@
     <loc>https://alex-pv01.github.io/tags/attention-mechanisms/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/categories/</loc>
-    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
-  </url><url>
     <loc>https://alex-pv01.github.io/tags/deep-learning/</loc>
-    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/categories/deep-learning/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/machine-translation/</loc>
@@ -69,6 +63,8 @@
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/archives/</loc>
+  </url><url>
+    <loc>https://alex-pv01.github.io/categories/</loc>
   </url><url>
     <loc>https://alex-pv01.github.io/search/</loc>
   </url>
