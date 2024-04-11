@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>Auto-Encoding Variational Bayes</title>
-      <link>https://alex-pv01.github.io/tags/auto-encoding-variational-bayes/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
-      
-      <guid>https://alex-pv01.github.io/tags/auto-encoding-variational-bayes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Autoencoder</title>
       <link>https://alex-pv01.github.io/tags/autoencoder/</link>
       <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
@@ -166,20 +157,56 @@
     </item>
     
     <item>
-      <title>DNN</title>
-      <link>https://alex-pv01.github.io/tags/dnn/</link>
-      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      <title>Convex Models</title>
+      <link>https://alex-pv01.github.io/tags/convex-models/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
       
-      <guid>https://alex-pv01.github.io/tags/dnn/</guid>
+      <guid>https://alex-pv01.github.io/tags/convex-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Erasure</title>
+      <link>https://alex-pv01.github.io/tags/data-erasure/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/data-erasure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Removal</title>
+      <link>https://alex-pv01.github.io/tags/data-removal/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/data-removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fisher Information Matrix</title>
+      <link>https://alex-pv01.github.io/tags/fisher-information-matrix/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/fisher-information-matrix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Unlearning</title>
       <link>https://alex-pv01.github.io/tags/machine-unlearning/</link>
-      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
       
       <guid>https://alex-pv01.github.io/tags/machine-unlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNN</title>
+      <link>https://alex-pv01.github.io/tags/dnn/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/dnn/</guid>
       <description></description>
     </item>
     

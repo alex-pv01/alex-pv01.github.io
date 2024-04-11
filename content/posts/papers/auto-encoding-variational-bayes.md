@@ -4,7 +4,7 @@ date: 2024-04-10T12:34:09+02:00
 draft: false
 math: true
 
-tags: [Variational Inference, Auto-Encoding Variational Bayes, Variational Autoencoder, Autoencoder, Latent Space, SGVB, AEVB, VAE, AI, Machine Learning, Deep Learning, Probabilistic Models, Probabilistic Graphical Models, PGM, Directed Models, Paper, Research]
+tags: [Variational Inference, Variational Autoencoder, Autoencoder, Latent Space, SGVB, AEVB, VAE, AI, Machine Learning, Deep Learning, Probabilistic Models, Probabilistic Graphical Models, PGM, Directed Models, Paper, Research]
 
 ShowToc: false
 ---
