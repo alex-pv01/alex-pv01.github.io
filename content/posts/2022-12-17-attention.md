@@ -3,7 +3,7 @@ title: "Attention and Context based Embeddings"
 date: 2022-12-17T17:51:02+01:00
 draft: false
 
-tags: ["Attention Mechanisms", "Natural Language Processing", "Deep Learning", "Machine Translation"]
+tags: ["Attention Mechanisms", "Natural Language Processing", "Deep Learning", "Machine Translation", "AI"]
 
 ShowToc: true
 ---

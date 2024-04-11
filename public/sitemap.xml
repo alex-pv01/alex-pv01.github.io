@@ -2,11 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alex-pv01.github.io/tags/aevb/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
     <loc>https://alex-pv01.github.io/tags/ai/</loc>
-    <lastmod>2024-04-09T10:13:13+02:00</lastmod>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/</loc>
-    <lastmod>2024-04-09T10:13:13+02:00</lastmod>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/auto-encoding-variational-bayes/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/autoencoder/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/deep-learning/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/directed-models/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/latent-space/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/machine-learning/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/paper/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/pgm/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/posts/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/probabilistic-graphical-models/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/probabilistic-models/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/research/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/sgvb/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/vae/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/variational-autoencoder/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/variational-inference/</loc>
+    <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/dnn/</loc>
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
@@ -18,18 +75,6 @@
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</loc>
-    <lastmod>2024-04-09T10:13:13+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/tags/paper/</loc>
-    <lastmod>2024-04-09T10:13:13+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/posts/</loc>
-    <lastmod>2024-04-09T10:13:13+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/tags/research/</loc>
-    <lastmod>2024-04-09T10:13:13+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/tags/</loc>
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/explainable-ai/</loc>
@@ -51,9 +96,6 @@
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/attention-mechanisms/</loc>
-    <lastmod>2022-12-17T17:51:02+01:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/tags/deep-learning/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/machine-translation/</loc>

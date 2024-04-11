@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Dec 2022 17:51:02 +0100</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 12:34:09 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Auto Encoding Variational Bayes</title>
+      <link>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</guid>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
+The following post is a comment on the paper Auto Encoding Variational Bayes by Diederik P. Kingma and Max Welling.
+What introduces their contributions is the following question:
+How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
+    </item>
+    
     <item>
       <title>Attention and Context based Embeddings</title>
       <link>https://alex-pv01.github.io/posts/2022-12-17-attention/</link>

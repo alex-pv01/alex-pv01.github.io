@@ -46,7 +46,7 @@ $$\textbf{w}\_u \mapsto \textbf{w}\_u - \Delta\textbf{w}\_u + \sigma^2 \epsilon$
 where $\Delta\textbf{w}\_u = H^{-1}\_{\mathcal{D}_r}(\textbf{w}\_c)\nabla\_\textbf{w}L\_{\mathcal{D}_r}(f\_{\textbf{w}\_u})$ is the optimal forgetting step, $H\_{\mathcal{D}_r}(\textbf{w}\_c)$ is the Hessian of the loss function $L\_{\mathcal{D}_r}$, $\mathcal{D}_r=\mathcal{D}-\mathcal{D}_f$ is the retained data, and $\epsilon \sim N(0,I)$ is a random noise vector. As $\Delta\textbf{w}\_u$ is only an approximation of the optimal forgetting step, by adding noise, they can destroy the information that may leak. In practice is not feasible to compute the Hessian, so they use the Jacobian-Vector Product (JVP) instead (see [[2]](#2)).
 
 
-### Personal considerations:
+### Personal Thoughts
 
 - Although the method is interesting, I am not sure how practical it is. The theoretical framework heavily relies on the assumption that the perturbation $\textbf{w}\_u$ is small, which may not be the case in practice. I find useful the fact of using core data to train a "foundational" (or core) model and then fine-tune it with user data (actually, this is the trend in SOTA models e.g., for generative AI). However, if the user data is far from being "small enough" and because of the linear approximation, the method may not work as expected.
 

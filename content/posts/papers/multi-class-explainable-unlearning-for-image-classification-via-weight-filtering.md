@@ -27,7 +27,7 @@ $$ L = \lambda_0 \sum_{(x,y)\in\mathcal{D_r}} L_r(M(x),y) + \lambda_1 \sum_{(x,y
 3. **Label expansion**: To realize untraining of all classes simultaneously, during the training process, each mini-batch of size $B$ is divided into two halves, obtaining $B/2$ samples from the classes to be **unlearned** and $B/2$ samples from the classes to be **retained**. Samples from the first half are labeled with the **original** labels, while samples from the second half are **randomly** labeled. The random strategy is used to randomly retain one of the rows of each $\alpha_l$. This retain step is performed $T$ times, pairing each time the samples with a different random label, and expanding the size of the retaining loss to $(T, B/2)$. The last step is averaging both losses.
 
 
-### Personal considerations:
+### Personal Thoughts
 
 - Note that **this approach is not really about unlearning**, but about **modulating** the weights of the network using an additional network that is able to filter out the weights that are responsible for the classification of one (or more) of the $N_c$ classes to be forgotten. Despite that, it is an interesting method that can be used to improve the explainability models while acting **"as if"** the model has been untrained from a certain class. 
 
