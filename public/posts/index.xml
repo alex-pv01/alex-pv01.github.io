@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Apr 2024 12:34:09 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Apr 2024 15:46:55 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on LLaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model</title>
+      <link>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</guid>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
+The following post is a comment on the paper LlaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model by Musashi Hinck, Matthew L. Olson, David Cobbley, Shao-Yen Tseng, and Vasudev Lal.
+Hinck et. al.</description>
+    </item>
+    
     <item>
       <title>Notes on Auto Encoding Variational Bayes</title>
       <link>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</link>
