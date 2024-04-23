@@ -47,7 +47,7 @@ where $D\_{KL}$ is the Kullback-Leibler divergence between the recognition model
 \\\ 
 =& \mathbb{E}\_{q\_\phi(\textbf{z}|\textbf{x}^{(i)})}[\log p\_\theta(\textbf{x}^{(i)}|\textbf{z})] - D\_{KL}(q\_\phi(\textbf{z}|\textbf{x}^{(i)}) || p\_\theta(\textbf{z})) 
 \end{align}
-In eq. (2), the first term can be seen as the **reconstruction error** and the second term as the **regularization term** that ensures that the approximate posterior $q\_\phi(\textbf{z}|\textbf{x})$ is close to the prior $p\_\theta(\textbf{z})$. We want to maximize the variational lower bound, w.r.t. the variational parameters $\phi$ and the generative parameters $\theta$. However, the gradient w.r.t. $\phi$ is problematic.
+In eq. (2), the first term can be seen as the **reconstruction error** and the second term as the **regularization term** that ensures that the approximate posterior \\(q\_\phi(\textbf{z}|\textbf{x})\\) is close to the prior $p\_\theta(\textbf{z})$. We want to maximize the variational lower bound, w.r.t. the variational parameters $\phi$ and the generative parameters $\theta$. However, the gradient w.r.t. $\phi$ is problematic.
 
 #### SGVB Estimator and AEVB Algorithm
 Kingma and Welling introduce SGVB as a practical **estimator of the lower bound** and its derivatives w.r.t. the parameters. They introduce the **reparameterization trick**, where the idea is to reparameterize the random variable $\textbf{z}\sim q\_\phi(\textbf{z}|\textbf{x})$ as a deterministic differentiable transformation $g\_\phi(\textbf{x}, \epsilon)$ of a random variable $\epsilon \sim p(\epsilon)$ that is independent of the parameters $\phi$ and $\theta$. This allows to form Monte Carlo estimates of the lower bound in eq. (1), which they call the **SGVB estimator**: 
