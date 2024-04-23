@@ -144,6 +144,12 @@ markup:
     guessSyntax: true
     lineNos: true
     style: monokai
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+      wrapStandAloneImageWithinParagraph: false
 
 outputs:
     home:

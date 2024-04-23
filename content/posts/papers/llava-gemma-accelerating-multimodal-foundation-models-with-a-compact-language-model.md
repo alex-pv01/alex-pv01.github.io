@@ -12,7 +12,7 @@ cover:
     caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
-tags: []
+tags: ["AI", "LLM", "Multimodal", "Vision", "Language", "Model", "LLaVA", "Gemma", "Intel Labs", Paper, Research]
 
 ShowToc: false
 ---
