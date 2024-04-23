@@ -1,0 +1,15 @@
+<div style="text-align: center;">
+{{- if .IsBlock -}}
+  <figure style="display: inline-block; text-align: center;">
+    <img src="{{ .Destination | safeURL }}"
+      {{- with .Text }} alt="{{ . }}"{{ end -}}
+    >
+    <figcaption style="font-size: 14px;">{{ .Title }}</figcaption>
+  </figure>
+{{- else -}}
+  <img src="{{ .Destination | safeURL }}"
+    {{- with .Text }} alt="{{ . }}"{{ end -}}
+    {{- with .Title }} title="{{ . }}"{{ end -}}
+  >
+{{- end -}}
+</div>
