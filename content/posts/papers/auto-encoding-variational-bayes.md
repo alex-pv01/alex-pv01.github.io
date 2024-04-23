@@ -30,7 +30,7 @@ Given a dataset \\(\mathcal{D} = \\{\textbf{x}^{(i)}\\}\_{i=1}^N\\) of $N$ i.i.d
 
 1. A value \\(\textbf{z}^{(i)}\\) is generated from a prior distribution \\(p\_{\theta^*}(\textbf{z})\\).
 
-2. A value $\textbf{x}^{(i)}$ is generated from a conditional distribution $p\_{\theta^*}(\textbf{x}|\textbf{z})$.
+2. A value \\(\textbf{x}^{(i)}\\) is generated from a conditional distribution \\(p\_{\theta^*}(\textbf{x}|\textbf{z})\\).
 
 Parameters $\theta^*$ and the latent variables $\textbf{z}$ are unknown. The goal is to define an algorithm to find an approximation posterior inference of $\textbf{z}$ and learn $\theta$, given the observed dataset $\mathcal{D}$. The algorithm must work in the worst case scenario where the posterior distribution $p\_\theta(\textbf{z}|\textbf{x})$ is intractable, the integral of the marginal likelihood $p\_\theta(\textbf{x})$ is intractable, and where $\mathcal{D}$ is too large that sampling based solutions are not feasible. 
 
