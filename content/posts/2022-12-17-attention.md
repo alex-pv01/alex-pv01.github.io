@@ -6,6 +6,7 @@ draft: false
 tags: ["Attention Mechanisms", "Natural Language Processing", "Deep Learning", "Machine Translation", "AI"]
 
 ShowToc: true
+math: true
 ---
 
 **Attention mechanisms** are a type of techniques used in **natural language processing (NLP)** tasks that allow a model to focus on **specific** parts of the input when processing a sequence, rather than considering the **entire** sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.
