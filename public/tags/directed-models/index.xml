@@ -24,5 +24,15 @@ What introduces their contributions is the following question:
 How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
     </item>
     
+    <item>
+      <title>Notes on Deep Unsupervised Learning Using Nonequilibrium Thermodynamics</title>
+      <link>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</link>
+      <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
+The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
+    </item>
+    
   </channel>
 </rss>

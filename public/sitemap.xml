@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alex-pv01.github.io/</loc>
-    <lastmod>2024-04-21T18:45:21+02:00</lastmod>
+    <lastmod>2024-04-29T09:58:07+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/posts/lectures/nonequilibrium-statistical-mechanics/</loc>
+    <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/posts/</loc>
-    <lastmod>2024-04-21T18:45:21+02:00</lastmod>
+    <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/tags/1-bit/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
@@ -157,6 +160,27 @@
   </url><url>
     <loc>https://alex-pv01.github.io/tags/weight-filtering/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/diffusion/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/diffusion-probabilistic-models/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/dpm/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/markov-chain/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/statistical-physics/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
+  </url><url>
+    <loc>https://alex-pv01.github.io/tags/thermodynamics/</loc>
+    <lastmod>2023-12-18T18:06:41+01:00</lastmod>
   </url><url>
     <loc>https://alex-pv01.github.io/posts/2022-12-17-attention/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
