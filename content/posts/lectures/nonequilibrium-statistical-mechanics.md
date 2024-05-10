@@ -12,7 +12,7 @@ cover:
     caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
-tags: []
+tags: ["Nonequilibrium Statistical Mechanics", "Deep Learning", "Diffusion Probabilistic Models", "Thermodynamics"]
 
 ShowToc: false
 ---

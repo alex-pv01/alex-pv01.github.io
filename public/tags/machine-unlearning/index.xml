@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Machine Unlearning on Àlex</title>
-    <link>https://alex-pv01.github.io/tags/machine-unlearning/</link>
+    <link>http://localhost:1313/tags/machine-unlearning/</link>
     <description>Recent content in Machine Unlearning on Àlex</description>
     <image>
       <title>Àlex</title>
-      <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Apr 2024 12:20:47 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/machine-unlearning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 12:20:47 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/machine-unlearning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on SSSE: Efficiently Erasing Samples From Trained Machine Learning Models</title>
-      <link>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</link>
+      <link>http://localhost:1313/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</link>
       <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
       
-      <guid>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</guid>
+      <guid>http://localhost:1313/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper SSSE: Efficiently Erasing Samples From Trained Machine Learning Models by Alexandra Peste, Dan Alistarh, and Christoph H. Lampert.
 Peste et. al. propose Single-Step Sample Erasure (SSSE), a method to efficiently and effectively erase samples from trained machine learning models.</description>
@@ -25,10 +25,10 @@ Peste et. al. propose Single-Step Sample Erasure (SSSE), a method to efficiently
     
     <item>
       <title>Notes on Mixed-Privacy Forgetting in Deep Networks</title>
-      <link>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</link>
+      <link>http://localhost:1313/posts/papers/mixed-privacy-forgetting-in-deep-networks/</link>
       <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
       
-      <guid>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</guid>
+      <guid>http://localhost:1313/posts/papers/mixed-privacy-forgetting-in-deep-networks/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper Mixed-Privacy Forgetting in Deep Networks by Aditya Golatkar, Alessandro Achille, Avinash Ravichandran, Marzia Polito, and Stefano Soatto.
 Golatkar et. al. introduce a novel method for forgetting in a mixed-privacy setting, where a core subset of the training samples will not be forgotten.</description>
@@ -36,10 +36,10 @@ Golatkar et. al. introduce a novel method for forgetting in a mixed-privacy sett
     
     <item>
       <title>Notes on Multi Class Explainable Unlearning for Image Classification via Weight Filtering</title>
-      <link>https://alex-pv01.github.io/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</link>
+      <link>http://localhost:1313/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
       
-      <guid>https://alex-pv01.github.io/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</guid>
+      <guid>http://localhost:1313/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper Multi Class Explainable Unlearning for Image Classification via Weight Filtering by Samuele Poppi, Sara Sarto, Marcella Cornia, Lorenzo Baraldi and Rita Cucchiara.
 Samuele P., et. al.</description>
