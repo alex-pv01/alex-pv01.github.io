@@ -41,13 +41,14 @@ $$ \textbf{f}\_\mu(\textbf{x}^{(t)},t) = \frac{1}{\sqrt{\alpha\_t}}\Big( \textbf
 With these, each of the summands of the bound of the log likelihood can be simplified to 
 $$ L\_{\text{simple}} := \mathbb{E}\_{t, \textbf{x}^{(0)}, \epsilon}\Big[ || \epsilon - \textbf{f}\_{\epsilon}(\sqrt{\bar{\alpha}\_t} \textbf{x}^{(0)} + \sqrt{1 - \bar{\alpha}\_{t}} \epsilon, t) ||^2 \Big] $$
 
+This resembles denoising score matching over multiple scales indexed by $t$ [[3]](#3), and further simplifies the diffusion model's variational bound.
+
 
 
 
 ### References
-<a id="1">[1]</a> 
-https://arxiv.org/abs/2006.11239
+<a id="1">[1]</a> Ho, J., Jain, A., & Abbeel, P. (2020). *Denoising Diffusion Probabilistic Models*. [arXiv:2006.11239](https://arxiv.org/abs/2006.11239).
 
 <a id="2">[2]</a> Sohl-Dickstein, J., Weiss, E. A., Maheswaranathan, N., & Ganguli, S. (2015). *Deep Unsupervised Learning using Nonequilibrium Thermodynamics*. [arXiv:1503.03585](https://arxiv.org/abs/1503.03585).
 
-<a id="3">[3]</a> denoising score matching
+<a id="3">[3]</a> Song, Y., & Ermon, S. (2019). *Generative Modeling by Estimating Gradients of the Data Distribution*. [arXiv:1907.05600](https://arxiv.org/abs/1907.05600v3).
