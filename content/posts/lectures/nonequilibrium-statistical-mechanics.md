@@ -27,6 +27,6 @@ Here you can find my notes from the lecture on Nonequilibrium Statistical Mechan
 
 - [Nonequilibrium Statistical Mechanics - Part 3](https://www.youtube.com/watch?v=anG9DlF-EgY)
 
-Pdf of my **handwritten notes** can be found [here](https://drive.proton.me/urls/M9J6SD4WPM#UOTJbsGuBZjh). Note that the audio at the third part is missing, so I have tried my best to follow what he was writing on the board, but I might have missed some points. 
+My **handwritten notes** can be found [here](https://drive.proton.me/urls/M9J6SD4WPM#UOTJbsGuBZjh). Note that the audio at the third part is missing, so I have tried my best to follow what he was writing on the board, but I might have missed some points. 
 
 Nonequilibrium Statistical Mechanics is the fundamental theory behind **diffusion probabilistic models**, introduced in the paper [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585).
