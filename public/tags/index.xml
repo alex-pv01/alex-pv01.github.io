@@ -1,402 +1,407 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Àlex</title>
     <link>https://alex-pv01.github.io/tags/</link>
     <description>Recent content in Tags on Àlex</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>Àlex</title>
+      <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Apr 2024 09:58:07 +0200</lastBuildDate>
     <atom:link href="https://alex-pv01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning</title>
       <link>https://alex-pv01.github.io/tags/deep-learning/</link>
-      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Diffusion Probabilistic Models</title>
       <link>https://alex-pv01.github.io/tags/diffusion-probabilistic-models/</link>
-      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/diffusion-probabilistic-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Nonequilibrium Statistical Mechanics</title>
       <link>https://alex-pv01.github.io/tags/nonequilibrium-statistical-mechanics/</link>
-      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/nonequilibrium-statistical-mechanics/</guid>
       <description></description>
     </item>
     <item>
       <title>Thermodynamics</title>
       <link>https://alex-pv01.github.io/tags/thermodynamics/</link>
-      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/thermodynamics/</guid>
       <description></description>
     </item>
     <item>
       <title>1-Bit</title>
       <link>https://alex-pv01.github.io/tags/1-bit/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/1-bit/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
       <link>https://alex-pv01.github.io/tags/ai/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>BitNet</title>
       <link>https://alex-pv01.github.io/tags/bitnet/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/bitnet/</guid>
       <description></description>
     </item>
     <item>
       <title>Efficiency</title>
       <link>https://alex-pv01.github.io/tags/efficiency/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/efficiency/</guid>
       <description></description>
     </item>
     <item>
       <title>Energy</title>
       <link>https://alex-pv01.github.io/tags/energy/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/energy/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
       <link>https://alex-pv01.github.io/tags/hardware/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
       <link>https://alex-pv01.github.io/tags/llm/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
       <link>https://alex-pv01.github.io/tags/optimization/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Quantization</title>
       <link>https://alex-pv01.github.io/tags/quantization/</link>
-      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/quantization/</guid>
       <description></description>
     </item>
     <item>
       <title>Gemma</title>
       <link>https://alex-pv01.github.io/tags/gemma/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/gemma/</guid>
       <description></description>
     </item>
     <item>
       <title>Intel Labs</title>
       <link>https://alex-pv01.github.io/tags/intel-labs/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/intel-labs/</guid>
       <description></description>
     </item>
     <item>
       <title>Language</title>
       <link>https://alex-pv01.github.io/tags/language/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/language/</guid>
       <description></description>
     </item>
     <item>
       <title>LLaVA</title>
       <link>https://alex-pv01.github.io/tags/llava/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/llava/</guid>
       <description></description>
     </item>
     <item>
       <title>Model</title>
       <link>https://alex-pv01.github.io/tags/model/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/model/</guid>
       <description></description>
     </item>
     <item>
       <title>Multimodal</title>
       <link>https://alex-pv01.github.io/tags/multimodal/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/multimodal/</guid>
       <description></description>
     </item>
     <item>
       <title>Paper</title>
       <link>https://alex-pv01.github.io/tags/paper/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/paper/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
       <link>https://alex-pv01.github.io/tags/research/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Vision</title>
       <link>https://alex-pv01.github.io/tags/vision/</link>
-      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/vision/</guid>
       <description></description>
     </item>
     <item>
       <title>AEVB</title>
       <link>https://alex-pv01.github.io/tags/aevb/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/aevb/</guid>
       <description></description>
     </item>
     <item>
       <title>Autoencoder</title>
       <link>https://alex-pv01.github.io/tags/autoencoder/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/autoencoder/</guid>
       <description></description>
     </item>
     <item>
       <title>Directed Models</title>
       <link>https://alex-pv01.github.io/tags/directed-models/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/directed-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Latent Space</title>
       <link>https://alex-pv01.github.io/tags/latent-space/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/latent-space/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
       <link>https://alex-pv01.github.io/tags/machine-learning/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>PGM</title>
       <link>https://alex-pv01.github.io/tags/pgm/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/pgm/</guid>
       <description></description>
     </item>
     <item>
       <title>Probabilistic Graphical Models</title>
       <link>https://alex-pv01.github.io/tags/probabilistic-graphical-models/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/probabilistic-graphical-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Probabilistic Models</title>
       <link>https://alex-pv01.github.io/tags/probabilistic-models/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/probabilistic-models/</guid>
       <description></description>
     </item>
     <item>
       <title>SGVB</title>
       <link>https://alex-pv01.github.io/tags/sgvb/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/sgvb/</guid>
       <description></description>
     </item>
     <item>
       <title>VAE</title>
       <link>https://alex-pv01.github.io/tags/vae/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/vae/</guid>
       <description></description>
     </item>
     <item>
       <title>Variational Autoencoder</title>
       <link>https://alex-pv01.github.io/tags/variational-autoencoder/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/variational-autoencoder/</guid>
       <description></description>
     </item>
     <item>
       <title>Variational Inference</title>
       <link>https://alex-pv01.github.io/tags/variational-inference/</link>
-      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/variational-inference/</guid>
       <description></description>
     </item>
     <item>
       <title>Convex Models</title>
       <link>https://alex-pv01.github.io/tags/convex-models/</link>
-      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/convex-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Erasure</title>
       <link>https://alex-pv01.github.io/tags/data-erasure/</link>
-      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/data-erasure/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Removal</title>
       <link>https://alex-pv01.github.io/tags/data-removal/</link>
-      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/data-removal/</guid>
       <description></description>
     </item>
     <item>
       <title>Fisher Information Matrix</title>
       <link>https://alex-pv01.github.io/tags/fisher-information-matrix/</link>
-      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/fisher-information-matrix/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Unlearning</title>
       <link>https://alex-pv01.github.io/tags/machine-unlearning/</link>
-      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/machine-unlearning/</guid>
       <description></description>
     </item>
     <item>
       <title>DNN</title>
       <link>https://alex-pv01.github.io/tags/dnn/</link>
-      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/dnn/</guid>
       <description></description>
     </item>
     <item>
       <title>Mixed-Privacy Forgetting</title>
       <link>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</link>
-      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</guid>
       <description></description>
     </item>
     <item>
       <title>Explainable AI</title>
       <link>https://alex-pv01.github.io/tags/explainable-ai/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/explainable-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Classification</title>
       <link>https://alex-pv01.github.io/tags/image-classification/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/image-classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Multi-Class</title>
       <link>https://alex-pv01.github.io/tags/multi-class/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/multi-class/</guid>
       <description></description>
     </item>
     <item>
       <title>Weight Filtering</title>
       <link>https://alex-pv01.github.io/tags/weight-filtering/</link>
-      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/weight-filtering/</guid>
       <description></description>
     </item>
     <item>
       <title>DDPM</title>
       <link>https://alex-pv01.github.io/tags/ddpm/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/ddpm/</guid>
       <description></description>
     </item>
     <item>
       <title>Denoising</title>
       <link>https://alex-pv01.github.io/tags/denoising/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/denoising/</guid>
       <description></description>
     </item>
     <item>
       <title>Denoising Diffusion Probabilistic Models</title>
       <link>https://alex-pv01.github.io/tags/denoising-diffusion-probabilistic-models/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/denoising-diffusion-probabilistic-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Diffusion</title>
       <link>https://alex-pv01.github.io/tags/diffusion/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/diffusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Diffusion Models</title>
       <link>https://alex-pv01.github.io/tags/diffusion-models/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/diffusion-models/</guid>
       <description></description>
     </item>
     <item>
       <title>DPM</title>
       <link>https://alex-pv01.github.io/tags/dpm/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/dpm/</guid>
       <description></description>
     </item>
     <item>
       <title>Markov Chain</title>
       <link>https://alex-pv01.github.io/tags/markov-chain/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/markov-chain/</guid>
       <description></description>
     </item>
     <item>
       <title>Statistical Physics</title>
       <link>https://alex-pv01.github.io/tags/statistical-physics/</link>
-      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/statistical-physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Attention Mechanisms</title>
       <link>https://alex-pv01.github.io/tags/attention-mechanisms/</link>
-      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/attention-mechanisms/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Translation</title>
       <link>https://alex-pv01.github.io/tags/machine-translation/</link>
-      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/machine-translation/</guid>
       <description></description>
     </item>
     <item>
       <title>Natural Language Processing</title>
       <link>https://alex-pv01.github.io/tags/natural-language-processing/</link>
-      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alex-pv01.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>

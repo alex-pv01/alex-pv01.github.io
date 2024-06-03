@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Diffusion Probabilistic Models on Àlex</title>
     <link>https://alex-pv01.github.io/tags/diffusion-probabilistic-models/</link>
     <description>Recent content in Diffusion Probabilistic Models on Àlex</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>Àlex</title>
+      <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Apr 2024 09:58:07 +0200</lastBuildDate>
     <atom:link href="https://alex-pv01.github.io/tags/diffusion-probabilistic-models/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +18,26 @@
       <link>https://alex-pv01.github.io/posts/lectures/nonequilibrium-statistical-mechanics/</link>
       <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
       <guid>https://alex-pv01.github.io/posts/lectures/nonequilibrium-statistical-mechanics/</guid>
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;Here you can find my notes from the lecture on Nonequilibrium Statistical Mechanics by Chris Jarzynski from University of Maryland. His lecture is available on YouTube:&#xA;Nonequilibrium Statistical Mechanics - Part 1&#xA;Nonequilibrium Statistical Mechanics - Part 2</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
+Here you can find my notes from the lecture on Nonequilibrium Statistical Mechanics by Chris Jarzynski from University of Maryland. His lecture is available on YouTube:
+Nonequilibrium Statistical Mechanics - Part 1
+Nonequilibrium Statistical Mechanics - Part 2</description>
     </item>
     <item>
       <title>Notes on Denoising Diffusion Probabilistic Models</title>
       <link>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</link>
       <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
       <guid>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</guid>
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
+The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
     </item>
     <item>
       <title>Notes on Deep Unsupervised Learning Using Nonequilibrium Thermodynamics</title>
       <link>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</link>
       <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
       <guid>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
+The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
     </item>
   </channel>
 </rss>
