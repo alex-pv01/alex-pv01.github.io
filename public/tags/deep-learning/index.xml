@@ -9,70 +9,83 @@
       <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.126.3</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 09:58:07 +0200</lastBuildDate>
-    <atom:link href="https://alex-pv01.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 09:58:07 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lecture Notes on Nonequilibrium Statistical Mechanics</title>
       <link>https://alex-pv01.github.io/posts/lectures/nonequilibrium-statistical-mechanics/</link>
       <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      
       <guid>https://alex-pv01.github.io/posts/lectures/nonequilibrium-statistical-mechanics/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 Here you can find my notes from the lecture on Nonequilibrium Statistical Mechanics by Chris Jarzynski from University of Maryland. His lecture is available on YouTube:
 Nonequilibrium Statistical Mechanics - Part 1
 Nonequilibrium Statistical Mechanics - Part 2</description>
     </item>
+    
     <item>
       <title>Notes on Slide in Defense of Smart Algorithms Over Hardware Acceleration for Large Scale Deep Learning Systems</title>
-      <link>https://alex-pv01.github.io/posts/papers/drafts/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</link>
+      <link>https://alex-pv01.github.io/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</link>
       <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
-      <guid>https://alex-pv01.github.io/posts/papers/drafts/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</guid>
+      
+      <guid>https://alex-pv01.github.io/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper SLIDE: In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems by Beidi Chen, Tharun Medini, James Farwell, Sameh Gobriel, Charlie Tai and Anshumali Shrivastava, from Rice University and Intel Corporation.</description>
     </item>
+    
     <item>
       <title>Notes on Auto Encoding Variational Bayes</title>
       <link>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</link>
       <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
       <guid>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper Auto Encoding Variational Bayes by Diederik P. Kingma and Max Welling.
 What introduces their contributions is the following question:
 How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
     </item>
+    
     <item>
       <title>Notes on SSSE: Efficiently Erasing Samples From Trained Machine Learning Models</title>
       <link>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</link>
       <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
       <guid>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper SSSE: Efficiently Erasing Samples From Trained Machine Learning Models by Alexandra Peste, Dan Alistarh, and Christoph H. Lampert.
 Peste et. al. propose Single-Step Sample Erasure (SSSE), a method to efficiently and effectively erase samples from trained machine learning models.</description>
     </item>
+    
     <item>
       <title>Notes on Denoising Diffusion Probabilistic Models</title>
       <link>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</link>
       <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
       <guid>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
     </item>
+    
     <item>
       <title>Notes on Deep Unsupervised Learning Using Nonequilibrium Thermodynamics</title>
       <link>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</link>
       <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
+      
       <guid>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
     </item>
+    
     <item>
       <title>Attention and Context based Embeddings</title>
       <link>https://alex-pv01.github.io/posts/articles/attention-mechanisms/</link>
       <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
       <guid>https://alex-pv01.github.io/posts/articles/attention-mechanisms/</guid>
       <description>Attention mechanisms are a type of techniques used in natural language processing (NLP) tasks that allow a model to focus on specific parts of the input when processing a sequence, rather than considering the entire sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.
 To some extend, attention mechanisms are motivated by how human visual attention focuses on different regions of an image or how correlates words in a sentence.</description>
     </item>
+    
   </channel>
 </rss>
