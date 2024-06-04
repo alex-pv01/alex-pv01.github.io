@@ -9,84 +9,79 @@
       <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2024 15:46:55 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 18:45:21 +0200</lastBuildDate>
+    <atom:link href="https://alex-pv01.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Slide in Defense of Smart Algorithms Over Hardware Acceleration for Large Scale Deep Learning Systems</title>
+      <link>https://alex-pv01.github.io/posts/papers/drafts/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      <guid>https://alex-pv01.github.io/posts/papers/drafts/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</guid>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
+The following post is a comment on the paper SLIDE: In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems by Beidi Chen, Tharun Medini, James Farwell, Sameh Gobriel, Charlie Tai and Anshumali Shrivastava, from Rice University and Intel Corporation.</description>
+    </item>
     <item>
       <title>Notes on LLaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model</title>
       <link>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</link>
       <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper LlaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model by Musashi Hinck, Matthew L. Olson, David Cobbley, Shao-Yen Tseng, and Vasudev Lal.
 Hinck et. al.</description>
     </item>
-    
     <item>
       <title>Notes on Auto Encoding Variational Bayes</title>
       <link>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</link>
       <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper Auto Encoding Variational Bayes by Diederik P. Kingma and Max Welling.
 What introduces their contributions is the following question:
 How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
     </item>
-    
     <item>
       <title>Notes on SSSE: Efficiently Erasing Samples From Trained Machine Learning Models</title>
       <link>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</link>
       <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper SSSE: Efficiently Erasing Samples From Trained Machine Learning Models by Alexandra Peste, Dan Alistarh, and Christoph H. Lampert.
 Peste et. al. propose Single-Step Sample Erasure (SSSE), a method to efficiently and effectively erase samples from trained machine learning models.</description>
     </item>
-    
     <item>
       <title>Notes on Mixed-Privacy Forgetting in Deep Networks</title>
       <link>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</link>
       <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper Mixed-Privacy Forgetting in Deep Networks by Aditya Golatkar, Alessandro Achille, Avinash Ravichandran, Marzia Polito, and Stefano Soatto.
 Golatkar et. al. introduce a novel method for forgetting in a mixed-privacy setting, where a core subset of the training samples will not be forgotten.</description>
     </item>
-    
     <item>
       <title>Notes on Multi Class Explainable Unlearning for Image Classification via Weight Filtering</title>
       <link>https://alex-pv01.github.io/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper Multi Class Explainable Unlearning for Image Classification via Weight Filtering by Samuele Poppi, Sara Sarto, Marcella Cornia, Lorenzo Baraldi and Rita Cucchiara.
 Samuele P., et. al.</description>
     </item>
-    
     <item>
       <title>Notes on Denoising Diffusion Probabilistic Models</title>
       <link>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</link>
       <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
     </item>
-    
     <item>
       <title>Notes on Deep Unsupervised Learning Using Nonequilibrium Thermodynamics</title>
       <link>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</link>
       <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
     </item>
-    
   </channel>
 </rss>

@@ -9,19 +9,18 @@
       <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Apr 2024 12:20:47 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/data-removal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 12:20:47 +0200</lastBuildDate>
+    <atom:link href="https://alex-pv01.github.io/tags/data-removal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on SSSE: Efficiently Erasing Samples From Trained Machine Learning Models</title>
       <link>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</link>
       <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
-      
       <guid>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper SSSE: Efficiently Erasing Samples From Trained Machine Learning Models by Alexandra Peste, Dan Alistarh, and Christoph H. Lampert.
 Peste et. al. propose Single-Step Sample Erasure (SSSE), a method to efficiently and effectively erase samples from trained machine learning models.</description>
     </item>
-    
   </channel>
 </rss>
