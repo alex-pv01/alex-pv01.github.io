@@ -9,8 +9,13 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
+<<<<<<< HEAD
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://alex-pv01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
   </channel>
 </rss>

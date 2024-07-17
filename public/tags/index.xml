@@ -9,8 +9,9 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.126.3</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 29 Apr 2024 09:58:07 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,434 +19,932 @@
       <link>http://localhost:1313/tags/deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/deep-learning/</guid>
+=======
+    <lastBuildDate>Mon, 29 Apr 2024 09:58:07 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>https://alex-pv01.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/deep-learning/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Diffusion Probabilistic Models</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/diffusion-probabilistic-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/diffusion-probabilistic-models/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/diffusion-probabilistic-models/</link>
+      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/diffusion-probabilistic-models/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Nonequilibrium Statistical Mechanics</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/nonequilibrium-statistical-mechanics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/nonequilibrium-statistical-mechanics/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/nonequilibrium-statistical-mechanics/</link>
+      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/nonequilibrium-statistical-mechanics/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Thermodynamics</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/thermodynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/thermodynamics/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/thermodynamics/</link>
+      <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/thermodynamics/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Adaptive Sampling</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/adaptive-sampling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/adaptive-sampling/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/adaptive-sampling/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/adaptive-sampling/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Hardware Acceleration</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/hardware-acceleration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hardware-acceleration/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/hardware-acceleration/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Locality Sensitive Hashing</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/locality-sensitive-hashing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/locality-sensitive-hashing/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/locality-sensitive-hashing/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/locality-sensitive-hashing/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Paper</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/paper/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/paper/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/paper/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Parallelization</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/parallelization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/parallelization/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/parallelization/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/parallelization/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Research</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/research/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/research/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/research/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>SLIDE</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/slide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/slide/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/slide/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/slide/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Sparse Neural Networks</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/sparse-neural-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sparse-neural-networks/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/sparse-neural-networks/</link>
+      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/sparse-neural-networks/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>1-Bit</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/1-bit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/1-bit/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/1-bit/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/1-bit/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>AI</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ai/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/ai/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/ai/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>BitNet</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/bitnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/bitnet/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/bitnet/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/bitnet/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Efficiency</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/efficiency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/efficiency/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/efficiency/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/efficiency/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Energy</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/energy/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/energy/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/energy/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Hardware</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/hardware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hardware/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/hardware/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/hardware/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>LLM</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/llm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/llm/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/llm/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/llm/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Optimization</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/optimization/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/optimization/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/optimization/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Quantization</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/quantization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/quantization/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/quantization/</link>
+      <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/quantization/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Gemma</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/gemma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/gemma/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/gemma/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/gemma/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Intel Labs</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/intel-labs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/intel-labs/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/intel-labs/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/intel-labs/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Language</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/language/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/language/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/language/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>LLaVA</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/llava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/llava/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/llava/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/llava/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Model</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/model/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/model/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/model/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Multimodal</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/multimodal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/multimodal/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/multimodal/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/multimodal/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Vision</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/vision/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/vision/</link>
+      <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/vision/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>AEVB</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/aevb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/aevb/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/aevb/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/aevb/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Autoencoder</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/autoencoder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/autoencoder/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/autoencoder/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/autoencoder/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Directed Models</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/directed-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/directed-models/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/directed-models/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/directed-models/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Latent Space</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/latent-space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/latent-space/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/latent-space/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/latent-space/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Machine Learning</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/machine-learning/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/machine-learning/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>PGM</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/pgm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/pgm/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/pgm/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/pgm/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Probabilistic Graphical Models</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/probabilistic-graphical-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/probabilistic-graphical-models/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/probabilistic-graphical-models/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/probabilistic-graphical-models/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Probabilistic Models</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/probabilistic-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/probabilistic-models/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/probabilistic-models/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/probabilistic-models/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>SGVB</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/sgvb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sgvb/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/sgvb/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/sgvb/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>VAE</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/vae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/vae/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/vae/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/vae/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Variational Autoencoder</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/variational-autoencoder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/variational-autoencoder/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/variational-autoencoder/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/variational-autoencoder/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Variational Inference</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/variational-inference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/variational-inference/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/variational-inference/</link>
+      <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/variational-inference/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Convex Models</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/convex-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/convex-models/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/convex-models/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/convex-models/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Data Erasure</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/data-erasure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/data-erasure/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/data-erasure/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/data-erasure/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Data Removal</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/data-removal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/data-removal/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/data-removal/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/data-removal/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Fisher Information Matrix</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/fisher-information-matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/fisher-information-matrix/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/fisher-information-matrix/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/fisher-information-matrix/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Machine Unlearning</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/machine-unlearning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/machine-unlearning/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/machine-unlearning/</link>
+      <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/machine-unlearning/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>DNN</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/dnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dnn/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/dnn/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/dnn/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Mixed-Privacy Forgetting</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/mixed-privacy-forgetting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/mixed-privacy-forgetting/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</link>
+      <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Explainable AI</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/explainable-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/explainable-ai/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/explainable-ai/</link>
+      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/explainable-ai/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Image Classification</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/image-classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/image-classification/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/image-classification/</link>
+      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/image-classification/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Multi-Class</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/multi-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/multi-class/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/multi-class/</link>
+      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/multi-class/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Weight Filtering</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/weight-filtering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/weight-filtering/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/weight-filtering/</link>
+      <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/weight-filtering/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>DDPM</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/ddpm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ddpm/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/ddpm/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/ddpm/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Denoising</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/denoising/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/denoising/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/denoising/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/denoising/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Denoising Diffusion Probabilistic Models</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/denoising-diffusion-probabilistic-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/denoising-diffusion-probabilistic-models/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/denoising-diffusion-probabilistic-models/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/denoising-diffusion-probabilistic-models/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Diffusion</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/diffusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/diffusion/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/diffusion/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/diffusion/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Diffusion Models</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/diffusion-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/diffusion-models/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/diffusion-models/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/diffusion-models/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>DPM</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/dpm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dpm/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/dpm/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/dpm/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Markov Chain</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/markov-chain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/markov-chain/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/markov-chain/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/markov-chain/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Statistical Physics</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/statistical-physics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/statistical-physics/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/statistical-physics/</link>
+      <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/statistical-physics/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Attention Mechanisms</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/attention-mechanisms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/attention-mechanisms/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/attention-mechanisms/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/attention-mechanisms/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Machine Translation</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/machine-translation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/machine-translation/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/machine-translation/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/machine-translation/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
     <item>
       <title>Natural Language Processing</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/natural-language-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/natural-language-processing/</guid>
+=======
+      <link>https://alex-pv01.github.io/tags/natural-language-processing/</link>
+      <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+      
+      <guid>https://alex-pv01.github.io/tags/natural-language-processing/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description></description>
     </item>
+    
   </channel>
 </rss>

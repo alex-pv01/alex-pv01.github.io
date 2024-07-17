@@ -9,17 +9,27 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.126.3</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 17 Dec 2022 17:51:02 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Sat, 17 Dec 2022 17:51:02 +0100</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
     <item>
       <title>Attention and Context based Embeddings</title>
       <link>http://localhost:1313/posts/articles/attention-mechanisms/</link>
       <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/posts/articles/attention-mechanisms/</guid>
+=======
+      
+      <guid>https://alex-pv01.github.io/posts/articles/attention-mechanisms/</guid>
+>>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
       <description>Attention mechanisms are a type of techniques used in natural language processing (NLP) tasks that allow a model to focus on specific parts of the input when processing a sequence, rather than considering the entire sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.
 To some extend, attention mechanisms are motivated by how human visual attention focuses on different regions of an image or how correlates words in a sentence.</description>
     </item>
+    
   </channel>
 </rss>
