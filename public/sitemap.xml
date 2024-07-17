@@ -2,244 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alex-pv01.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-24T10:59:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-24T10:59:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/papers/drafts/rethinking-the-representation-in-federated-unsupervised-learning-with-non-iid-data/</loc>
+    <lastmod>2024-06-24T10:58:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/papers/drafts/rethinking-machine-unlearning-for-large-language-models/</loc>
     <lastmod>2024-05-31T12:31:12+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/</loc>
-    <lastmod>2024-05-31T12:31:12+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/drafts/kan-kolmogorov-arnold-networks/</loc>
-    <lastmod>2024-05-09T17:38:17+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
     <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/diffusion-probabilistic-models/</loc>
+    <loc>http://localhost:1313/tags/diffusion-probabilistic-models/</loc>
     <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/lectures/nonequilibrium-statistical-mechanics/</loc>
+    <loc>http://localhost:1313/posts/lectures/nonequilibrium-statistical-mechanics/</loc>
     <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/nonequilibrium-statistical-mechanics/</loc>
+    <loc>http://localhost:1313/tags/nonequilibrium-statistical-mechanics/</loc>
     <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/thermodynamics/</loc>
+    <loc>http://localhost:1313/tags/thermodynamics/</loc>
     <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/adaptive-sampling/</loc>
+    <loc>http://localhost:1313/tags/adaptive-sampling/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/hardware-acceleration/</loc>
+    <loc>http://localhost:1313/tags/hardware-acceleration/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/locality-sensitive-hashing/</loc>
+    <loc>http://localhost:1313/tags/locality-sensitive-hashing/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/drafts/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</loc>
+    <loc>http://localhost:1313/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/paper/</loc>
+    <loc>http://localhost:1313/tags/paper/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/parallelization/</loc>
+    <loc>http://localhost:1313/tags/parallelization/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/research/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/slide/</loc>
+    <loc>http://localhost:1313/tags/slide/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/sparse-neural-networks/</loc>
+    <loc>http://localhost:1313/tags/sparse-neural-networks/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/1-bit/</loc>
+    <loc>http://localhost:1313/tags/1-bit/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/bitnet/</loc>
+    <loc>http://localhost:1313/tags/bitnet/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/efficiency/</loc>
+    <loc>http://localhost:1313/tags/efficiency/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/energy/</loc>
+    <loc>http://localhost:1313/tags/energy/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/hardware/</loc>
+    <loc>http://localhost:1313/tags/hardware/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/llm/</loc>
+    <loc>http://localhost:1313/tags/llm/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/the-era-of-1-bit-llms-all-large-language-models-are-in-1.58-bits/</loc>
+    <loc>http://localhost:1313/posts/papers/the-era-of-1-bit-llms-all-large-language-models-are-in-1.58-bits/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/optimization/</loc>
+    <loc>http://localhost:1313/tags/optimization/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/quantization/</loc>
+    <loc>http://localhost:1313/tags/quantization/</loc>
     <lastmod>2024-04-13T15:46:04+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/bitnet-scaling-1-bit-transformers-for-large-language-models/</loc>
+    <loc>http://localhost:1313/posts/papers/bitnet-scaling-1-bit-transformers-for-large-language-models/</loc>
     <lastmod>2024-04-12T23:16:06+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/gemma/</loc>
+    <loc>http://localhost:1313/tags/gemma/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/intel-labs/</loc>
+    <loc>http://localhost:1313/tags/intel-labs/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/language/</loc>
+    <loc>http://localhost:1313/tags/language/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/llava/</loc>
+    <loc>http://localhost:1313/tags/llava/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/model/</loc>
+    <loc>http://localhost:1313/tags/model/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/multimodal/</loc>
+    <loc>http://localhost:1313/tags/multimodal/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</loc>
+    <loc>http://localhost:1313/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/vision/</loc>
+    <loc>http://localhost:1313/tags/vision/</loc>
     <lastmod>2024-04-11T15:46:55+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/aevb/</loc>
+    <loc>http://localhost:1313/tags/aevb/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/autoencoder/</loc>
+    <loc>http://localhost:1313/tags/autoencoder/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/directed-models/</loc>
+    <loc>http://localhost:1313/tags/directed-models/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/latent-space/</loc>
+    <loc>http://localhost:1313/tags/latent-space/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</loc>
+    <loc>http://localhost:1313/posts/papers/auto-encoding-variational-bayes/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/pgm/</loc>
+    <loc>http://localhost:1313/tags/pgm/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/probabilistic-graphical-models/</loc>
+    <loc>http://localhost:1313/tags/probabilistic-graphical-models/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/probabilistic-models/</loc>
+    <loc>http://localhost:1313/tags/probabilistic-models/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/sgvb/</loc>
+    <loc>http://localhost:1313/tags/sgvb/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/vae/</loc>
+    <loc>http://localhost:1313/tags/vae/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/variational-autoencoder/</loc>
+    <loc>http://localhost:1313/tags/variational-autoencoder/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/variational-inference/</loc>
+    <loc>http://localhost:1313/tags/variational-inference/</loc>
     <lastmod>2024-04-10T12:34:09+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/convex-models/</loc>
+    <loc>http://localhost:1313/tags/convex-models/</loc>
     <lastmod>2024-04-10T12:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/data-erasure/</loc>
+    <loc>http://localhost:1313/tags/data-erasure/</loc>
     <lastmod>2024-04-10T12:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/data-removal/</loc>
+    <loc>http://localhost:1313/tags/data-removal/</loc>
     <lastmod>2024-04-10T12:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/fisher-information-matrix/</loc>
+    <loc>http://localhost:1313/tags/fisher-information-matrix/</loc>
     <lastmod>2024-04-10T12:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/machine-unlearning/</loc>
+    <loc>http://localhost:1313/tags/machine-unlearning/</loc>
     <lastmod>2024-04-10T12:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</loc>
+    <loc>http://localhost:1313/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</loc>
     <lastmod>2024-04-10T12:20:47+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/dnn/</loc>
+    <loc>http://localhost:1313/tags/dnn/</loc>
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/mixed-privacy-forgetting/</loc>
+    <loc>http://localhost:1313/tags/mixed-privacy-forgetting/</loc>
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</loc>
+    <loc>http://localhost:1313/posts/papers/mixed-privacy-forgetting-in-deep-networks/</loc>
     <lastmod>2024-04-09T10:13:13+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/explainable-ai/</loc>
+    <loc>http://localhost:1313/tags/explainable-ai/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/image-classification/</loc>
+    <loc>http://localhost:1313/tags/image-classification/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/multi-class/</loc>
+    <loc>http://localhost:1313/tags/multi-class/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</loc>
+    <loc>http://localhost:1313/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/weight-filtering/</loc>
+    <loc>http://localhost:1313/tags/weight-filtering/</loc>
     <lastmod>2024-04-08T09:36:22+02:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/ddpm/</loc>
+    <loc>http://localhost:1313/tags/ddpm/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/denoising/</loc>
+    <loc>http://localhost:1313/tags/denoising/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/denoising-diffusion-probabilistic-models/</loc>
+    <loc>http://localhost:1313/tags/denoising-diffusion-probabilistic-models/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/diffusion/</loc>
+    <loc>http://localhost:1313/tags/diffusion/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/diffusion-models/</loc>
+    <loc>http://localhost:1313/tags/diffusion-models/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/dpm/</loc>
+    <loc>http://localhost:1313/tags/dpm/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/markov-chain/</loc>
+    <loc>http://localhost:1313/tags/markov-chain/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</loc>
+    <loc>http://localhost:1313/posts/papers/denoising-diffusion-probabilistic-models/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/statistical-physics/</loc>
+    <loc>http://localhost:1313/tags/statistical-physics/</loc>
     <lastmod>2023-12-19T17:51:09+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</loc>
+    <loc>http://localhost:1313/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</loc>
     <lastmod>2023-12-18T18:06:41+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/posts/articles/attention-mechanisms/</loc>
+    <loc>http://localhost:1313/posts/articles/attention-mechanisms/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/attention-mechanisms/</loc>
+    <loc>http://localhost:1313/tags/attention-mechanisms/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/machine-translation/</loc>
+    <loc>http://localhost:1313/tags/machine-translation/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/tags/natural-language-processing/</loc>
+    <loc>http://localhost:1313/tags/natural-language-processing/</loc>
     <lastmod>2022-12-17T17:51:02+01:00</lastmod>
   </url><url>
-    <loc>https://alex-pv01.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://alex-pv01.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://alex-pv01.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

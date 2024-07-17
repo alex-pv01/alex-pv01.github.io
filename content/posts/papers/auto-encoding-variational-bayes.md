@@ -14,7 +14,7 @@ ShowToc: false
 The following post is a comment on the paper [Auto Encoding Variational Bayes](#1) by [Diederik P. Kingma](https://arxiv.org/search/stat?searchtype=author&query=Kingma,+D+P) and [Max Welling](https://arxiv.org/search/stat?searchtype=author&query=Welling,+M).
 
 
-What introduces their contributions is the following question: 
+The following question introduces the main motivation of the paper:
 
 > How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?
 

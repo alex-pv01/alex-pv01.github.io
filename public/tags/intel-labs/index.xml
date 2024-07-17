@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Intel Labs on Àlex</title>
-    <link>https://alex-pv01.github.io/tags/intel-labs/</link>
+    <link>http://localhost:1313/tags/intel-labs/</link>
     <description>Recent content in Intel Labs on Àlex</description>
     <image>
       <title>Àlex</title>
-      <url>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alex-pv01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 15:46:55 +0200</lastBuildDate>
-    <atom:link href="https://alex-pv01.github.io/tags/intel-labs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/intel-labs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on LLaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model</title>
-      <link>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</link>
+      <link>http://localhost:1313/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</link>
       <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
-      <guid>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</guid>
+      <guid>http://localhost:1313/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</guid>
       <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
 The following post is a comment on the paper LlaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model by Musashi Hinck, Matthew L. Olson, David Cobbley, Shao-Yen Tseng, and Vasudev Lal.
 Hinck et. al.</description>

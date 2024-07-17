@@ -1,7 +1,7 @@
 ---
 title: "Notes on KAN: Kolmogorov-Arnold Networks"
 date: 2024-05-09T17:38:17+02:00
-draft: false
+draft: true
 math: true
 
 cover:
