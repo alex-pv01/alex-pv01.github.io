@@ -1,65 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probabilistic Models on Àlex</title>
     <link>http://localhost:1313/tags/probabilistic-models/</link>
     <description>Recent content in Probabilistic Models on Àlex</description>
-    <image>
-      <title>Àlex</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-<<<<<<< HEAD
     <lastBuildDate>Wed, 10 Apr 2024 12:34:09 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/probabilistic-models/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <lastBuildDate>Wed, 10 Apr 2024 12:34:09 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/tags/probabilistic-models/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
     <item>
       <title>Notes on Auto Encoding Variational Bayes</title>
       <link>http://localhost:1313/posts/papers/auto-encoding-variational-bayes/</link>
       <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/auto-encoding-variational-bayes/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper Auto Encoding Variational Bayes by Diederik P. Kingma and Max Welling.
-The following question introduces the main motivation of the paper:
-How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper Auto Encoding Variational Bayes by Diederik P. Kingma and Max Welling.&#xA;The following question introduces the main motivation of the paper:&#xA;How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
     </item>
-    
     <item>
       <title>Notes on Denoising Diffusion Probabilistic Models</title>
       <link>http://localhost:1313/posts/papers/denoising-diffusion-probabilistic-models/</link>
       <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/denoising-diffusion-probabilistic-models/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
     </item>
-    
     <item>
       <title>Notes on Deep Unsupervised Learning Using Nonequilibrium Thermodynamics</title>
       <link>http://localhost:1313/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</link>
       <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
     </item>
-    
   </channel>
 </rss>

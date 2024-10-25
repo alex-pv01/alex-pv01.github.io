@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Àlex</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Àlex</description>
-    <image>
-      <title>Àlex</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-<<<<<<< HEAD
     <lastBuildDate>Mon, 24 Jun 2024 10:58:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -19,213 +13,98 @@
       <link>http://localhost:1313/posts/papers/drafts/rethinking-the-representation-in-federated-unsupervised-learning-with-non-iid-data/</link>
       <pubDate>Mon, 24 Jun 2024 10:58:50 +0200</pubDate>
       <guid>http://localhost:1313/posts/papers/drafts/rethinking-the-representation-in-federated-unsupervised-learning-with-non-iid-data/</guid>
-=======
-    <lastBuildDate>Fri, 31 May 2024 12:31:12 +0200</lastBuildDate><atom:link href="https://alex-pv01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rethinking Machine Unlearning for Large Language Models</title>
-      <link>https://alex-pv01.github.io/posts/papers/drafts/rethinking-machine-unlearning-for-large-language-models/</link>
-      <pubDate>Fri, 31 May 2024 12:31:12 +0200</pubDate>
-      
-      <guid>https://alex-pv01.github.io/posts/papers/drafts/rethinking-machine-unlearning-for-large-language-models/</guid>
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.</description>
-    </item>
-    
-    <item>
-      <title>Notes on KAN: Kolmogorov-Arnold Networks</title>
-      <link>https://alex-pv01.github.io/posts/papers/drafts/kan-kolmogorov-arnold-networks/</link>
-      <pubDate>Thu, 09 May 2024 17:38:17 +0200</pubDate>
-      
-      <guid>https://alex-pv01.github.io/posts/papers/drafts/kan-kolmogorov-arnold-networks/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper Rethinking the Representation in Federated Unsupervised Learning With Non-IID Data by Xinting Liao, Weiming Liu, Chaochao Chen, Pengyang Zhou, Fengyuan Yu, Huabin Zhu, Binhui Yao, Tao Wang, Xiaolin Zheng and Yanchao Tan, from Zhejiang University, Midea Group, and Fuzhou University.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper Rethinking the Representation in Federated Unsupervised Learning With Non-IID Data by Xinting Liao, Weiming Liu, Chaochao Chen, Pengyang Zhou, Fengyuan Yu, Huabin Zhu, Binhui Yao, Tao Wang, Xiaolin Zheng and Yanchao Tan, from Zhejiang University, Midea Group, and Fuzhou University.</description>
     </item>
     <item>
       <title>Rethinking Machine Unlearning for Large Language Models</title>
       <link>http://localhost:1313/posts/papers/drafts/rethinking-machine-unlearning-for-large-language-models/</link>
       <pubDate>Fri, 31 May 2024 12:31:12 +0200</pubDate>
       <guid>http://localhost:1313/posts/papers/drafts/rethinking-machine-unlearning-for-large-language-models/</guid>
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much .
-https://arxiv.org/pdf/2402.08787</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much .&#xA;https://arxiv.org/pdf/2402.08787</description>
     </item>
-    
     <item>
       <title>Lecture Notes on Nonequilibrium Statistical Mechanics</title>
       <link>http://localhost:1313/posts/lectures/nonequilibrium-statistical-mechanics/</link>
       <pubDate>Mon, 29 Apr 2024 09:58:07 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/lectures/nonequilibrium-statistical-mechanics/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/lectures/nonequilibrium-statistical-mechanics/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-Here you can find my notes from the lecture on Nonequilibrium Statistical Mechanics by Chris Jarzynski from University of Maryland. His lecture is available on YouTube:
-Nonequilibrium Statistical Mechanics - Part 1
-Nonequilibrium Statistical Mechanics - Part 2</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;Here you can find my notes from the lecture on Nonequilibrium Statistical Mechanics by Chris Jarzynski from University of Maryland. His lecture is available on YouTube:&#xA;Nonequilibrium Statistical Mechanics - Part 1&#xA;Nonequilibrium Statistical Mechanics - Part 2</description>
     </item>
-    
     <item>
       <title>Notes on Slide in Defense of Smart Algorithms Over Hardware Acceleration for Large Scale Deep Learning Systems</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</link>
       <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
       <guid>http://localhost:1313/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</guid>
-=======
-      <link>https://alex-pv01.github.io/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</link>
-      <pubDate>Sun, 21 Apr 2024 18:45:21 +0200</pubDate>
-      
-      <guid>https://alex-pv01.github.io/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper SLIDE: In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems by Beidi Chen, Tharun Medini, James Farwell, Sameh Gobriel, Charlie Tai and Anshumali Shrivastava, from Rice University and Intel Corporation.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper SLIDE: In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems by Beidi Chen, Tharun Medini, James Farwell, Sameh Gobriel, Charlie Tai and Anshumali Shrivastava, from Rice University and Intel Corporation.</description>
     </item>
-    
     <item>
       <title>Notes on The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits</title>
       <link>http://localhost:1313/posts/papers/the-era-of-1-bit-llms-all-large-language-models-are-in-1.58-bits/</link>
       <pubDate>Sat, 13 Apr 2024 15:46:04 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/the-era-of-1-bit-llms-all-large-language-models-are-in-1.58-bits/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/the-era-of-1-bit-llms-all-large-language-models-are-in-1.58-bits/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits by Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, and Furu Wei.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits by Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, and Furu Wei.</description>
     </item>
-    
     <item>
       <title>Notes on Bitnet: Scaling 1 Bit Transformers for Large Language Models</title>
       <link>http://localhost:1313/posts/papers/bitnet-scaling-1-bit-transformers-for-large-language-models/</link>
       <pubDate>Fri, 12 Apr 2024 23:16:06 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/bitnet-scaling-1-bit-transformers-for-large-language-models/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/bitnet-scaling-1-bit-transformers-for-large-language-models/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper Bitnet: Scaling 1 Bit Transformers for Large Language Models by Hongyu Wang, Shuming Ma, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fang Yang, Ruiping Wang, Yi Wu, and Furu Wei.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper Bitnet: Scaling 1 Bit Transformers for Large Language Models by Hongyu Wang, Shuming Ma, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fang Yang, Ruiping Wang, Yi Wu, and Furu Wei.</description>
     </item>
-    
     <item>
       <title>Notes on LLaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model</title>
       <link>http://localhost:1313/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</link>
       <pubDate>Thu, 11 Apr 2024 15:46:55 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/llava-gemma-accelerating-multimodal-foundation-models-with-a-compact-language-model/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper LlaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model by Musashi Hinck, Matthew L. Olson, David Cobbley, Shao-Yen Tseng, and Vasudev Lal.
-Hinck et. al.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper LlaVA-Gemma: Accelerating Multimodal Foundation Models With a Compact Language Model by Musashi Hinck, Matthew L. Olson, David Cobbley, Shao-Yen Tseng, and Vasudev Lal.&#xA;Hinck et. al.</description>
     </item>
-    
     <item>
       <title>Notes on Auto Encoding Variational Bayes</title>
       <link>http://localhost:1313/posts/papers/auto-encoding-variational-bayes/</link>
       <pubDate>Wed, 10 Apr 2024 12:34:09 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/auto-encoding-variational-bayes/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/auto-encoding-variational-bayes/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper Auto Encoding Variational Bayes by Diederik P. Kingma and Max Welling.
-The following question introduces the main motivation of the paper:
-How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper Auto Encoding Variational Bayes by Diederik P. Kingma and Max Welling.&#xA;The following question introduces the main motivation of the paper:&#xA;How can we perform efficient approximate inference and learning with directed probabilistic models whose continuous latent variables and/or parameters have intractable posterior distributions?</description>
     </item>
-    
     <item>
       <title>Notes on SSSE: Efficiently Erasing Samples From Trained Machine Learning Models</title>
       <link>http://localhost:1313/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</link>
       <pubDate>Wed, 10 Apr 2024 12:20:47 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/ssse-efficiently-erasing-samples-from-trained-machine-learning-models/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper SSSE: Efficiently Erasing Samples From Trained Machine Learning Models by Alexandra Peste, Dan Alistarh, and Christoph H. Lampert.
-Peste et. al. propose Single-Step Sample Erasure (SSSE), a method to efficiently and effectively erase samples from trained machine learning models.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper SSSE: Efficiently Erasing Samples From Trained Machine Learning Models by Alexandra Peste, Dan Alistarh, and Christoph H. Lampert.&#xA;Peste et. al. propose Single-Step Sample Erasure (SSSE), a method to efficiently and effectively erase samples from trained machine learning models.</description>
     </item>
-    
     <item>
       <title>Notes on Mixed-Privacy Forgetting in Deep Networks</title>
       <link>http://localhost:1313/posts/papers/mixed-privacy-forgetting-in-deep-networks/</link>
       <pubDate>Tue, 09 Apr 2024 10:13:13 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/mixed-privacy-forgetting-in-deep-networks/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/mixed-privacy-forgetting-in-deep-networks/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper Mixed-Privacy Forgetting in Deep Networks by Aditya Golatkar, Alessandro Achille, Avinash Ravichandran, Marzia Polito, and Stefano Soatto.
-Golatkar et. al. introduce a novel method for forgetting in a mixed-privacy setting, where a core subset of the training samples will not be forgotten.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper Mixed-Privacy Forgetting in Deep Networks by Aditya Golatkar, Alessandro Achille, Avinash Ravichandran, Marzia Polito, and Stefano Soatto.&#xA;Golatkar et. al. introduce a novel method for forgetting in a mixed-privacy setting, where a core subset of the training samples will not be forgotten.</description>
     </item>
-    
     <item>
       <title>Notes on Multi Class Explainable Unlearning for Image Classification via Weight Filtering</title>
       <link>http://localhost:1313/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</link>
       <pubDate>Mon, 08 Apr 2024 09:36:22 +0200</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/multi-class-explainable-unlearning-for-image-classification-via-weight-filtering/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a comment on the paper Multi Class Explainable Unlearning for Image Classification via Weight Filtering by Samuele Poppi, Sara Sarto, Marcella Cornia, Lorenzo Baraldi and Rita Cucchiara.
-Samuele P., et. al.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a comment on the paper Multi Class Explainable Unlearning for Image Classification via Weight Filtering by Samuele Poppi, Sara Sarto, Marcella Cornia, Lorenzo Baraldi and Rita Cucchiara.&#xA;Samuele P., et. al.</description>
     </item>
-    
     <item>
       <title>Notes on Denoising Diffusion Probabilistic Models</title>
       <link>http://localhost:1313/posts/papers/denoising-diffusion-probabilistic-models/</link>
       <pubDate>Tue, 19 Dec 2023 17:51:09 +0100</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/denoising-diffusion-probabilistic-models/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/denoising-diffusion-probabilistic-models/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a summary of the paper Denoising Diffusion Probabilistic Models by Jonathan Ho, Ajay Jain and Pieter Abbeel, from University of California, Berkeley. The paper was published in 2020 and is a follow up on Diffusion Probabilistic Models (DPM).</description>
     </item>
-    
     <item>
       <title>Notes on Deep Unsupervised Learning Using Nonequilibrium Thermodynamics</title>
       <link>http://localhost:1313/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</link>
       <pubDate>Mon, 18 Dec 2023 18:06:41 +0100</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/papers/deep-unsupervised-learning-using-nonequilibrium-thermodynamics/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.
-The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
+      <description>Disclaimer: This is part of my notes on AI research papers. I do this to learn and communicate what I understand. Feel free to comment if you have any suggestion, that would be very much appreciated.&#xA;The following post is a summary of the paper Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan and Surya Ganguli, from Stanford University and University of California, Berkeley. The paper was published in 2015 and it is the first one to introduce the concept of Diffusion Probabilistic Models (DPMs) or, in short, Diffusion Models.</description>
     </item>
-    
     <item>
       <title>Attention and Context based Embeddings</title>
       <link>http://localhost:1313/posts/articles/attention-mechanisms/</link>
       <pubDate>Sat, 17 Dec 2022 17:51:02 +0100</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/posts/articles/attention-mechanisms/</guid>
-=======
-      
-      <guid>https://alex-pv01.github.io/posts/articles/attention-mechanisms/</guid>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
-      <description>Attention mechanisms are a type of techniques used in natural language processing (NLP) tasks that allow a model to focus on specific parts of the input when processing a sequence, rather than considering the entire sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.
-To some extend, attention mechanisms are motivated by how human visual attention focuses on different regions of an image or how correlates words in a sentence.</description>
+      <description>Attention mechanisms are a type of techniques used in natural language processing (NLP) tasks that allow a model to focus on specific parts of the input when processing a sequence, rather than considering the entire sequence at once. These methods can improve the performance of the model by allowing it to efficiently process long sequences of text and make more accurate predictions.&#xA;To some extend, attention mechanisms are motivated by how human visual attention focuses on different regions of an image or how correlates words in a sentence.</description>
     </item>
-    
   </channel>
 </rss>

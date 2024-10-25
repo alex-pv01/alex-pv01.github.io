@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-24T10:59:50+02:00</lastmod>
+    <lastmod>2024-07-17T15:33:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-06-24T10:59:50+02:00</lastmod>
+    <lastmod>2024-07-17T15:33:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/papers/drafts/rethinking-the-representation-in-federated-unsupervised-learning-with-non-iid-data/</loc>
     <lastmod>2024-06-24T10:58:50+02:00</lastmod>
@@ -14,20 +14,7 @@
     <loc>http://localhost:1313/posts/papers/drafts/rethinking-machine-unlearning-for-large-language-models/</loc>
     <lastmod>2024-05-31T12:31:12+02:00</lastmod>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/deep-learning/</loc>
-=======
-    <loc>https://alex-pv01.github.io/posts/</loc>
-    <lastmod>2024-05-31T12:31:12+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/drafts/rethinking-machine-unlearning-for-large-language-models/</loc>
-    <lastmod>2024-05-31T12:31:12+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/posts/papers/drafts/kan-kolmogorov-arnold-networks/</loc>
-    <lastmod>2024-05-09T17:38:17+02:00</lastmod>
-  </url><url>
-    <loc>https://alex-pv01.github.io/tags/deep-learning/</loc>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
     <lastmod>2024-04-29T09:58:07+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/diffusion-probabilistic-models/</loc>
@@ -54,11 +41,7 @@
     <loc>http://localhost:1313/tags/locality-sensitive-hashing/</loc>
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</loc>
-=======
-    <loc>https://alex-pv01.github.io/posts/papers/slide-in-defense-of-smart-algorithms-over-hardware-acceleration-for-large-scale-deep-learning-systems/</loc>
->>>>>>> 3e41910ec3b37fbf49862f5d6edb1c57ce5467db
     <lastmod>2024-04-21T18:45:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/paper/</loc>
