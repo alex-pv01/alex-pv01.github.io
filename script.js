@@ -1,46 +1,64 @@
 // Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
-    // Add current year to any element with id "current-year" if needed
-    const currentYearElements = document.querySelectorAll('.current-year');
-    if (currentYearElements.length > 0) {
-        const currentYear = new Date().getFullYear();
-        currentYearElements.forEach(element => {
-            element.textContent = currentYear;
-        });
-    }
-
-    // Highlight the current section in the navigation
-    function highlightNav() {
-        const sections = document.querySelectorAll('section');
-        const navLinks = document.querySelectorAll('.nav-link');
-        
-        // Get the current scroll position
-        const scrollPosition = window.scrollY;
-        
-        // Find the section that's currently in view
-        sections.forEach(section => {
-            const sectionTop = section.offsetTop - 100;
-            const sectionHeight = section.clientHeight;
-            const sectionId = section.getAttribute('id');
+    // Add smooth scrolling for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            e.preventDefault();
             
-            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
-                // Remove 'active' class from all links
-                navLinks.forEach(link => {
-                    link.classList.remove('active');
+            const targetId = this.getAttribute('href');
+            const targetElement = document.querySelector(targetId);
+            
+            if (targetElement) {
+                window.scrollTo({
+                    top: targetElement.offsetTop - 50,
+                    behavior: 'smooth'
                 });
                 
-                // Add 'active' class to the corresponding navigation link
-                const currentNavLink = document.querySelector(`.nav-link[href="#${sectionId}"]`);
-                if (currentNavLink) {
-                    currentNavLink.classList.add('active');
-                }
+                // Update URL hash without jumping
+                history.pushState(null, null, targetId);
             }
         });
-    }
-
-    // Listen for scroll events
-    window.addEventListener('scroll', highlightNav);
+    });
     
-    // Initial call to highlight the correct navigation item
-    highlightNav();
+    // Highlight active section in navigation
+    function highlightActiveSection() {
+        const sections = document.querySelectorAll('section');
+        const navLinks = document.querySelectorAll('nav a');
+        
+        let currentSectionId = '';
+        const scrollPosition = window.scrollY + 100;
+        
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop;
+            const sectionHeight = section.clientHeight;
+            
+            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
+                currentSectionId = '#' + section.id;
+            }
+        });
+        
+        navLinks.forEach(link => {
+            link.style.color = link.getAttribute('href') === currentSectionId ? 
+                               getComputedStyle(document.documentElement).getPropertyValue('--accent-color') : '';
+        });
+    }
+    
+    // Run on scroll
+    window.addEventListener('scroll', highlightActiveSection);
+    
+    // Run on page load
+    highlightActiveSection();
+    
+    // Optional: Add a subtle hover effect to project cards
+    const projectCards = document.querySelectorAll('.project-card');
+    projectCards.forEach(card => {
+        card.addEventListener('mouseenter', function() {
+            this.style.transform = 'translateY(-5px)';
+            this.style.transition = 'transform 0.3s ease';
+        });
+        
+        card.addEventListener('mouseleave', function() {
+            this.style.transform = 'translateY(0)';
+        });
+    });
 });
