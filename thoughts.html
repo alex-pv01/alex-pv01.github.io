@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en" charset="utf-8" data-lt-installed="true"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>À: thoughts</title>
+    <meta name="description" content="Thoughts and writings on research, technology, and ideas.">
+    <meta property="og:title" content="Àlex Pujol Vidal - Thoughts">
+    <meta property="og:site_name" content="Àlex Pujol Vidal">
+    <meta property="og:locale" content="en-us">
+    <meta property="og:image" content="img/me.jpeg">
+    <meta property="twitter:site" content="@alexpujolv">
+    <meta property="twitter:creator" content="@alexpujolv">
+    <link rel="stylesheet" media="screen" href="styles.css">
+    <link rel="me" content="https://x.com/alexpujolv">
+
+<style>
+    :is([id*='google_ads_iframe'],[id*='taboola-'],.taboolaHeight,.taboola-placeholder,#top-ad,#credential_picker_container,#credentials-picker-container,#credential_picker_iframe,[id*='google-one-tap-iframe'],#google-one-tap-popup-container,.google-one-tap__module,.google-one-tap-modal-div,#amp_floatingAdDiv,#ez-content-blocker-container) {
+        display:none!important;
+        min-height:0!important;
+        height:0!important;
+    }
+
+    /* Tag filter sidebar */
+    #tag-filter {
+        position: fixed;
+        left: calc(50% - 600px);
+        top: 120px;
+        width: 160px;
+        font-size: 0.9em;
+    }
+
+    #tag-filter h3 {
+        font-size: 1em;
+        margin-bottom: 0.5em;
+        color: var(--text-secondary);
+        display: inline-block;
+    }
+
+    /* Filter mode toggle button */
+    .filter-mode-toggle {
+        background: none;
+        border: 1px solid var(--text-secondary);
+        border-radius: 50%;
+        width: 28px;
+        height: 28px;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1em;
+        color: var(--text-color);
+        transition: all 0.3s ease;
+        margin-left: 0.5em;
+        vertical-align: middle;
+    }
+
+    .filter-mode-toggle:hover {
+        background-color: var(--border-color);
+        transform: scale(1.1);
+    }
+
+    #filter-mode-icon {
+        transition: transform 0.3s ease;
+    }
+
+    /* Tag styles */
+    .tag {
+        display: inline-block;
+        padding: 0.2em 0.5em 0.2em 0;
+        margin: 0.2em 0;
+        font-size: 1em;
+        color: var(--text-secondary);
+        text-decoration: none;
+        transition: color 0.2s ease;
+        cursor: pointer;
+    }
+
+    .tag:hover {
+        color: var(--highlight-first);
+    }
+
+    .tag.active {
+        color: var(--highlight-second);
+        font-weight: bold;
+    }
+
+    .post-tags {
+        margin-top: 0.5em;
+    }
+
+    .post-tags .tag {
+        display: inline-block;
+        cursor: default;
+        font-size: 0.8em;
+        margin: 0.2em 0.3em 0.2em 0;
+    }
+
+    .post-tags .tag:hover {
+        background-color: var(--border-color);
+        color: var(--text-color);
+    }
+
+    /* Hide tag filter on smaller screens */
+    @media screen and (max-width: 1200px) {
+        #tag-filter {
+            display: none;
+        }
+    }
+
+    /* Post list spacing */
+    #posts-list > li {
+        margin-bottom: 2.5em;
+    }
+</style>
+<script src="js/theme.js"></script>
+</head>
+<body itemtype="" itemscope="" class="">
+
+    <!-- Tag Filter Sidebar -->
+    <nav id="tag-filter">
+        <h3>Tags</h3>
+        <button class="filter-mode-toggle" id="filter-mode-toggle" aria-label="Toggle filter mode">
+            <span id="filter-mode-icon">∪</span>
+        </button>
+        <div id="tag-buttons"></div>
+    </nav>
+
+    <div id="content" class="content thought">
+        <div id="header">
+            <nav style="margin-left: 0.2ex">
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="about.html">about me</a></li>
+                </ul>
+            </nav>
+            <h1><span style="color: var(--highlight-first);">T</span>houghts <a href="https://substack.com/@lex1768396"><i class="bi bi-substack" style="font-size:0.8em;"></i></a></h1>
+        </div>
+
+        <section class="paragraph" id="posts">
+            <!-- Blog post entries -->
+            <ul class="org-ul my-stuff" id="posts-list">
+                <li style="color: #999;">Loading posts...</li>
+            </ul>
+        </section>
+
+    </div>
+
+    <!-- Language Selector -->
+    <div class="language-selector">
+        <span data-lang="en" class="active-en">en</span>
+        <span class="separator">|</span>
+        <span data-lang="cat">cat</span>
+        <span class="separator">|</span>
+        <span data-lang="dk">dk</span>
+    </div>
+
+    <!-- Theme Toggle Button -->
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+        <i class="bi bi-moon-fill"></i>
+    </button>
+
+<script src="js/language.js"></script>
+<script>
+    let allPosts = [];
+    let selectedTags = new Set();
+    let filterMode = 'union'; // 'union' or 'intersection'
+
+    // Fetch and parse each post's metadata
+    async function loadPosts() {
+        const postsList = document.getElementById('posts-list');
+        postsList.innerHTML = ''; // Clear loading message
+
+        // Fetch the list of posts from posts.json
+        let posts = [];
+        try {
+            const response = await fetch('thoughts/posts.json');
+            if (response.ok) {
+                posts = await response.json();
+            }
+        } catch (error) {
+            console.error('Error loading posts.json:', error);
+            postsList.innerHTML = '<li style="color: #999;">Error loading posts.</li>';
+            return;
+        }
+
+        allPosts = [];
+        const allTags = new Set();
+
+        for (const mdFile of posts) {
+            try {
+                const response = await fetch(`thoughts/${mdFile}`);
+                if (!response.ok) continue;
+
+                const markdown = await response.text();
+
+                // Parse frontmatter
+                const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/;
+                const match = markdown.match(frontmatterRegex);
+
+                let title = 'Untitled';
+                let date = '';
+                let tags = [];
+                let content = markdown;
+
+                if (match) {
+                    const frontmatter = match[1];
+                    content = match[2];
+
+                    const titleMatch = frontmatter.match(/title:\s*(.+)/);
+                    const dateMatch = frontmatter.match(/date:\s*(.+)/);
+                    const tagsMatch = frontmatter.match(/tags:\s*\[(.+)\]/);
+
+                    if (titleMatch) title = titleMatch[1].replace(/['"]/g, '');
+                    if (dateMatch) date = dateMatch[1].replace(/['"]/g, '');
+                    if (tagsMatch) {
+                        tags = tagsMatch[1].split(',').map(t => t.trim());
+                        tags.forEach(tag => allTags.add(tag));
+                    }
+                }
+
+                // Extract excerpt (first paragraph, cleaned)
+                const excerpt = content
+                    .replace(/<[^>]*>/g, '') // Remove HTML tags
+                    .replace(/[#*`]/g, '') // Remove markdown symbols
+                    .split('\n\n')
+                    .filter(p => p.trim().length > 0)[0]
+                    .substring(0, 250)
+                    .trim() + '...';
+
+                allPosts.push({ mdFile, title, date, tags, excerpt });
+
+            } catch (error) {
+                console.error(`Error loading ${mdFile}:`, error);
+            }
+        }
+
+        // Sort posts by date (newest first)
+        allPosts.sort((a, b) => {
+            const dateA = new Date(a.date);
+            const dateB = new Date(b.date);
+            return dateB - dateA; // Descending order (newest first)
+        });
+
+        // Create tag filter buttons
+        createTagFilter(allTags);
+
+        // Display posts
+        displayPosts();
+    }
+
+    // Create tag filter UI
+    function createTagFilter(allTags) {
+        const tagButtons = document.getElementById('tag-buttons');
+        tagButtons.innerHTML = '';
+
+        // Add "All" button
+        const allButton = document.createElement('span');
+        allButton.className = 'tag' + (selectedTags.size === 0 ? ' active' : '');
+        allButton.textContent = 'all';
+        allButton.onclick = () => clearTagFilters();
+        tagButtons.appendChild(allButton);
+
+        // Add button for each tag
+        const sortedTags = Array.from(allTags).sort();
+        sortedTags.forEach(tag => {
+            const tagButton = document.createElement('span');
+            tagButton.className = 'tag' + (selectedTags.has(tag) ? ' active' : '');
+            tagButton.textContent = tag;
+            tagButton.onclick = () => toggleTag(tag);
+            tagButtons.appendChild(tagButton);
+        });
+
+        // Setup filter mode toggle button
+        const toggleBtn = document.getElementById('filter-mode-toggle');
+        if (toggleBtn) {
+            toggleBtn.onclick = toggleFilterMode;
+        }
+    }
+
+    // Toggle between union and intersection modes
+    function toggleFilterMode() {
+        filterMode = filterMode === 'union' ? 'intersection' : 'union';
+
+        // Update icon
+        const icon = document.getElementById('filter-mode-icon');
+        icon.textContent = filterMode === 'union' ? '∪' : '∩';
+
+        // Refresh display with new mode
+        displayPosts();
+    }
+
+    // Toggle a tag selection
+    function toggleTag(tag) {
+        if (selectedTags.has(tag)) {
+            selectedTags.delete(tag);
+        } else {
+            selectedTags.add(tag);
+        }
+
+        // Update active state of tag buttons
+        document.querySelectorAll('#tag-buttons .tag').forEach(btn => {
+            if (btn.textContent === 'all') {
+                btn.classList.toggle('active', selectedTags.size === 0);
+            } else {
+                btn.classList.toggle('active', selectedTags.has(btn.textContent));
+            }
+        });
+
+        // Display filtered posts
+        displayPosts();
+    }
+
+    // Clear all tag filters
+    function clearTagFilters() {
+        selectedTags.clear();
+
+        // Update active state
+        document.querySelectorAll('#tag-buttons .tag').forEach(btn => {
+            if (btn.textContent === 'all') {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+
+        displayPosts();
+    }
+
+    // Display posts (filtered or all)
+    function displayPosts() {
+        const postsList = document.getElementById('posts-list');
+        postsList.innerHTML = '';
+
+        let filteredPosts;
+
+        if (selectedTags.size === 0) {
+            // No filters, show all posts
+            filteredPosts = allPosts;
+        } else if (filterMode === 'union') {
+            // Union: Show posts that have ANY of the selected tags
+            filteredPosts = allPosts.filter(post =>
+                post.tags.some(tag => selectedTags.has(tag))
+            );
+        } else {
+            // Intersection: Show posts that have ALL of the selected tags
+            filteredPosts = allPosts.filter(post =>
+                Array.from(selectedTags).every(tag => post.tags.includes(tag))
+            );
+        }
+
+        if (filteredPosts.length === 0) {
+            postsList.innerHTML = '<li style="color: #999;">No posts found with the selected tags.</li>';
+            return;
+        }
+
+        filteredPosts.forEach(post => {
+            const li = document.createElement('li');
+
+            // Create tags HTML
+            const tagsHtml = post.tags.length > 0
+                ? `<div class="post-tags">${post.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>`
+                : '';
+
+            li.innerHTML = `
+                <b><a href="thoughts/post.html?md=${post.mdFile}">${post.title}</a></b>
+                <span style="color: #999; font-size: 0.9em; margin-left: 1em;">${post.date}</span>
+                ${tagsHtml}
+                <p style="margin-top: 0.5em; padding-left: 0;">${post.excerpt}</p>
+            `;
+            postsList.appendChild(li);
+        });
+    }
+
+    // Load posts when page loads
+    window.addEventListener('DOMContentLoaded', loadPosts);
+</script>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BX3236H088');
+  </script>
+</body></html>

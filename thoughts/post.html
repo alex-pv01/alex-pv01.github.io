@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en" charset="utf-8">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title id="page-title">Loading...</title>
+    <meta name="description" content="Thoughts and writings on research, technology, and ideas.">
+    <meta property="og:title" content="Àlex Pujol Vidal">
+    <meta property="og:site_name" content="Àlex Pujol Vidal">
+    <meta property="og:locale" content="en-us">
+    <meta property="og:image" content="../img/me.jpeg">
+    <meta property="twitter:site" content="@alexpujolv">
+    <meta property="twitter:creator" content="@alexpujolv">
+    <link rel="stylesheet" media="screen" href="../styles.css">
+    <link rel="me" content="https://x.com/alexpujolv">
+
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- MathJax for LaTeX equations -->
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$']],
+                displayMath: [['$$', '$$']],
+                tags: 'ams',
+                packages: {'[+]': ['ams']}
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+    <style>
+        :is([id*='google_ads_iframe'],[id*='taboola-'],.taboolaHeight,.taboola-placeholder,#top-ad,#credential_picker_container,#credentials-picker-container,#credential_picker_iframe,[id*='google-one-tap-iframe'],#google-one-tap-popup-container,.google-one-tap__module,.google-one-tap-modal-div,#amp_floatingAdDiv,#ez-content-blocker-container) {
+            display:none!important;
+            min-height:0!important;
+            height:0!important;
+        }
+
+        /* Table of Contents */
+        .toc {
+            position: fixed;
+            left: calc(50% - 600px);
+            top: 120px;
+            width: 160px;
+            font-size: 0.9em;
+        }
+
+        .toc h3 {
+            font-size: 1em;
+            margin-bottom: 0.5em;
+            color: var(--text-secondary);
+        }
+
+        .toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .toc li {
+            margin-bottom: 0.4em;
+        }
+
+        .toc li::before {
+            content: none !important;
+        }
+
+        .toc a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .toc a:hover {
+            color: var(--highlight-first);
+        }
+
+        .toc a.active {
+            color: var(--highlight-second);
+            font-weight: bold;
+        }
+
+        .toc a::after {
+            content: none !important;
+        }
+
+        /* Indent nested headings */
+        .toc ul ul {
+            padding-left: 1em;
+        }
+
+        /* Hide TOC on smaller screens */
+        @media screen and (max-width: 1200px) {
+            .toc {
+                display: none;
+            }
+        }
+
+        /* Sidenotes/Margin Notes */
+        .note {
+            float: right;
+            clear: right;
+            margin-right: -280px;
+            width: 200px;
+            font-size: 0.85em;
+            line-height: 1.4em;
+            color: var(--text-secondary);
+            padding: 0.5em 0;
+        }
+
+        .note::before {
+            content: "→ ";
+            color: var(--highlight-first);
+            margin-right: 0.3em;
+        }
+
+        /* On smaller screens, display notes inline */
+        @media screen and (max-width: 1200px) {
+            .note {
+                float: none;
+                margin-right: 0;
+                width: 100%;
+                border-left: 3px solid var(--highlight-first);
+                padding-left: 1em;
+                margin: 1em 0;
+                font-style: italic;
+            }
+
+            .note::before {
+                content: "Note: ";
+            }
+        }
+
+        /* Math equations styling */
+        mjx-container {
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+
+        mjx-container[display="true"] {
+            margin: 1.5em 0;
+        }
+
+        /* Post content headings spacing */
+        #post-content h2 {
+            margin-top: 2.5em;
+        }
+
+        #post-content h3 {
+            margin-top: 2em;
+        }
+    </style>
+    <script src="../js/theme.js"></script>
+</head>
+<body itemtype="" itemscope="" class="">
+
+    <!-- Table of Contents -->
+    <nav id="toc" class="toc">
+        <h3>Contents</h3>
+        <ul id="toc-list"></ul>
+    </nav>
+
+    <div id="content" class="content thought">
+        <div id="header">
+            <nav style="margin-left: 0.2ex">
+                <ul>
+                    <li><a href="../index.html">home</a></li>
+                    <li><a href="../thoughts.html">thoughts</a></li>
+                </ul>
+            </nav>
+            <h1 id="post-title">Loading...</h1>
+            <div id="byline">
+                <span style="color: #999;" id="post-date"></span>
+            </div>
+        </div>
+
+        <article id="post-content" class="paragraph">
+            <p>Loading post...</p>
+        </article>
+
+        <p style="margin-top: 3em; padding-top: 2em; padding-bottom: 3em; border-top: 1pt solid #ddd; color: #999; text-align: center;">
+            <a href="../thoughts.html">← Back to all thoughts</a>
+        </p>
+    </div>
+
+    <!-- Language Selector -->
+    <div class="language-selector">
+        <span data-lang="en" class="active-en">en</span>
+        <span class="separator">|</span>
+        <span data-lang="cat">cat</span>
+        <span class="separator">|</span>
+        <span data-lang="dk">dk</span>
+    </div>
+
+    <!-- Theme Toggle Button -->
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+        <i class="bi bi-moon-fill"></i>
+    </button>
+
+    <script src="../js/language.js"></script>
+    <script>
+        // Get the markdown file from URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const mdFile = urlParams.get('md');
+
+        if (!mdFile) {
+            document.getElementById('post-content').innerHTML = '<p>Error: No markdown file specified.</p>';
+        } else {
+            // Fetch and render the markdown file
+            fetch(mdFile)
+                .then(response => {
+                    if (!response.ok) throw new Error('Markdown file not found');
+                    return response.text();
+                })
+                .then(markdown => {
+                    // Parse frontmatter (title and date)
+                    const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/;
+                    const match = markdown.match(frontmatterRegex);
+
+                    let title = 'Untitled';
+                    let date = '';
+                    let content = markdown;
+
+                    if (match) {
+                        // Parse frontmatter
+                        const frontmatter = match[1];
+                        content = match[2];
+
+                        const titleMatch = frontmatter.match(/title:\s*(.+)/);
+                        const dateMatch = frontmatter.match(/date:\s*(.+)/);
+
+                        if (titleMatch) title = titleMatch[1].replace(/['"]/g, '');
+                        if (dateMatch) date = dateMatch[1].replace(/['"]/g, '');
+                    }
+
+                    // Update page title and header
+                    document.getElementById('page-title').textContent = `À: ${title}`;
+                    document.title = `À: ${title}`;
+
+                    // Update meta description with first paragraph or excerpt
+                    const firstParagraph = content.split('\n\n')[0].replace(/[#*`]/g, '').substring(0, 200);
+                    const metaDescription = document.querySelector('meta[name="description"]');
+                    if (metaDescription) {
+                        metaDescription.setAttribute('content', firstParagraph);
+                    }
+
+                    // Update Open Graph tags
+                    const ogTitle = document.querySelector('meta[property="og:title"]');
+                    if (ogTitle) {
+                        ogTitle.setAttribute('content', `${title} - Àlex Pujol Vidal`);
+                    }
+
+                    // Highlight first letter of title
+                    const firstLetter = title.charAt(0);
+                    const restOfTitle = title.slice(1);
+                    document.getElementById('post-title').innerHTML = `<span style="color: var(--highlight-first);">${firstLetter}</span>${restOfTitle}`;
+
+                    document.getElementById('post-date').textContent = date;
+
+                    // Configure marked options
+                    marked.setOptions({
+                        breaks: true,
+                        gfm: true
+                    });
+
+                    // Render markdown to HTML
+                    const html = marked.parse(content);
+                    document.getElementById('post-content').innerHTML = html;
+
+                    // Generate Table of Contents
+                    generateTOC();
+
+                    // Render LaTeX equations with MathJax (wait for it to load)
+                    renderMath();
+                })
+                .catch(error => {
+                    document.getElementById('post-content').innerHTML = `<p>Error loading post: ${error.message}</p>`;
+                    console.error('Error loading markdown:', error);
+                });
+        }
+
+        // Generate Table of Contents from headings
+        function generateTOC() {
+            const content = document.getElementById('post-content');
+            const headings = content.querySelectorAll('h2, h3');
+            const tocList = document.getElementById('toc-list');
+
+            if (headings.length === 0) {
+                document.getElementById('toc').style.display = 'none';
+                return;
+            }
+
+            let tocHTML = '';
+            let currentLevel = 2;
+
+            headings.forEach((heading, index) => {
+                const level = parseInt(heading.tagName.substring(1));
+                const text = heading.textContent;
+                const id = `heading-${index}`;
+                heading.id = id;
+
+                // Handle nesting
+                if (level > currentLevel) {
+                    tocHTML += '<ul>';
+                } else if (level < currentLevel) {
+                    tocHTML += '</ul>';
+                }
+                currentLevel = level;
+
+                tocHTML += `<li><a href="#${id}">${text}</a></li>`;
+            });
+
+            // Close any remaining open lists
+            while (currentLevel > 2) {
+                tocHTML += '</ul>';
+                currentLevel--;
+            }
+
+            tocList.innerHTML = tocHTML;
+
+            // Add click handler to manually update highlighting
+            const newTocLinks = document.querySelectorAll('.toc a');
+            newTocLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    // Wait for scroll to complete, then manually check which section is active
+                    setTimeout(() => {
+                        updateActiveSection();
+                    }, 50);
+                });
+            });
+        }
+
+        // Manually check and update which section is currently active
+        function updateActiveSection() {
+            const headings = document.querySelectorAll('#post-content h2, #post-content h3');
+            const tocLinks = document.querySelectorAll('.toc a');
+            const postTitle = document.getElementById('post-title');
+
+            // Check if we're at the top
+            const titleRect = postTitle.getBoundingClientRect();
+            if (titleRect.bottom > 0 && titleRect.top < window.innerHeight / 2) {
+                // At the top - clear all highlights
+                tocLinks.forEach(link => link.classList.remove('active'));
+                return;
+            }
+
+            // Find the heading closest to the top of viewport that's visible
+            let activeHeading = null;
+            let minDistance = Infinity;
+
+            headings.forEach(heading => {
+                const rect = heading.getBoundingClientRect();
+                const viewportTop = window.innerHeight * 0.15; // Consider top 15% of viewport
+
+                // If heading is in or above the trigger zone
+                if (rect.top <= viewportTop) {
+                    const distance = Math.abs(rect.top);
+                    // Keep the one closest to top that's already passed
+                    if (distance < minDistance || rect.top >= 0) {
+                        if (rect.top >= -100) { // Not too far up
+                            activeHeading = heading;
+                            minDistance = distance;
+                        } else if (!activeHeading) {
+                            activeHeading = heading;
+                        }
+                    }
+                }
+            });
+
+            // Update TOC highlighting
+            tocLinks.forEach(link => link.classList.remove('active'));
+            if (activeHeading) {
+                const activeLink = document.querySelector(`.toc a[href="#${activeHeading.id}"]`);
+                if (activeLink) {
+                    activeLink.classList.add('active');
+                }
+            }
+        }
+
+        // Render math equations - wait for MathJax to be ready
+        function renderMath() {
+            const checkMathJax = () => {
+                if (window.MathJax && window.MathJax.typesetPromise) {
+                    MathJax.typesetPromise([document.getElementById('post-content')]).catch((err) => {
+                        console.error('MathJax rendering error:', err);
+                    });
+                } else {
+                    // MathJax not ready yet, check again in 100ms
+                    setTimeout(checkMathJax, 100);
+                }
+            };
+            checkMathJax();
+        }
+
+        // Scroll spy for TOC highlighting
+        function initScrollSpy() {
+            const headings = document.querySelectorAll('#post-content h2, #post-content h3');
+            const tocLinks = document.querySelectorAll('.toc a');
+            const postTitle = document.getElementById('post-title');
+
+            if (headings.length === 0) return;
+
+            // Observer for the post title - when visible, clear all highlights
+            const titleObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        // At the top - remove all active classes
+                        tocLinks.forEach(link => link.classList.remove('active'));
+                    }
+                });
+            }, {
+                rootMargin: '0px',
+                threshold: 0.5
+            });
+
+            // Observe the title
+            if (postTitle) {
+                titleObserver.observe(postTitle);
+            }
+
+            // Observer for section headings
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        // Only highlight if we're not at the top (title not visible)
+                        const titleRect = postTitle.getBoundingClientRect();
+                        if (titleRect.bottom < 0) {
+                            // Remove active class from all links
+                            tocLinks.forEach(link => link.classList.remove('active'));
+
+                            // Add active class to current section
+                            const id = entry.target.id;
+                            const activeLink = document.querySelector(`.toc a[href="#${id}"]`);
+                            if (activeLink) {
+                                activeLink.classList.add('active');
+                            }
+                        }
+                    }
+                });
+            }, {
+                rootMargin: '-10% 0px -85% 0px',
+                threshold: 0
+            });
+
+            // Observe all headings
+            headings.forEach(heading => {
+                if (heading.id) {
+                    observer.observe(heading);
+                }
+            });
+        }
+
+        // Initialize scroll spy after TOC is generated
+        window.addEventListener('load', () => {
+            // Wait a bit for everything to render
+            setTimeout(initScrollSpy, 500);
+        });
+    </script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-BX3236H088');
+    </script>
+</body>
+</html>
