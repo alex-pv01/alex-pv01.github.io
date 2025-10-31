@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "home": "home",
+    "about": "about me",
+    "thoughts": "thoughts"
+  },
+  "home": {
+    "location": "Aalborg, Denmark",
+    "role": "PhD Student @ Aalborg University",
+    "field": "Mathematics ∩ AI ∩ Cognitive Science",
+    "tldr": "tl;dr",
+    "summary": "My research explores the geometric foundations of multimodal AI, investigating how non-Euclidean spaces can better capture the hierarchical and compositional nature of visual and temporal data. I'm working on extending vision-language models to understand complex spatio-temporal-semantic relationships in video, questioning whether hyperbolic representations alone are sufficient or if we need novel geometric frameworks for temporal reasoning."
+  },
+  "about": {
+    "heading": "About Me",
+    "researchFocus": "Research focus",
+    "publications": "Publications",
+    "beyondResearch": "Beyond research",
+    "intro": "I'm a PhD student at <a href=\"https://www.en.aau.dk/\">Aalborg University</a> working at the <a href=\"https://vap.aau.dk/\">Visual Analysis and Perception Lab</a>. My research focuses on the geometric foundations of multimodal AI, particularly exploring how non-Euclidean spaces can better capture the hierarchical and compositional nature of visual and temporal data.",
+    "background": "I completed my academic training at the <a href=\"https://web.ub.edu/en/home\">University of Barcelona</a>, where I earned a Bachelor's degree in Mathematics and two Master's degrees in Advanced Mathematics and Data Science. During my master's studies, I worked as a research assistant at the <a href=\"https://hupba.com/\">HuPBA group</a> in Barcelona, before joining the VAP Lab at Aalborg University, where I currently pursue my PhD.",
+    "researchPara1": "My work addresses a fundamental limitation in current vision-language models: they treat images and text as flat entities, ignoring their inherent compositional and hierarchical structure. Visual scenes are structured compositions where objects exist within contexts, forming spatial hierarchies. When extended to video, temporal dynamics introduce additional complexity that conventional Euclidean representations struggle to capture.",
+    "researchPara2": "I'm investigating whether hyperbolic geometry, with its natural capacity for representing hierarchies, can adequately capture the full complexity of spatio-temporal-semantic relationships in video. This includes exploring hybrid geometric approaches that might combine hyperbolic spaces for hierarchical relationships with alternative frameworks for periodic or cyclical temporal patterns.",
+    "beyondText": "In my free time, I help with my family's business, <a href=\"https://www.insigniespujol.com/ca\">Insígnies Pujol</a>, a badge and insignia manufacturing company based in Barcelona."
+  },
+  "thoughts": {
+    "heading": "Thoughts",
+    "tags": "Tags",
+    "tagAll": "all",
+    "loading": "Loading posts...",
+    "noPostsFound": "No posts found with the selected tags."
+  },
+  "post": {
+    "contents": "Contents",
+    "loading": "Loading...",
+    "loadingPost": "Loading post...",
+    "backToThoughts": "← Back to all thoughts"
+  },
+  "meta": {
+    "description": "Research and thoughts on artificial intelligence, machine learning, and society.",
+    "aboutDescription": "Research and thoughts on artificial intelligence, machine learning, and society.",
+    "thoughtsDescription": "Thoughts and writings on research, technology, and ideas.",
+    "titleAbout": "À: about me",
+    "titleThoughts": "À: thoughts"
+  }
+}

@@ -390,7 +390,7 @@ ul.my-stuff > li:before {
 /* Language selector */
 .language-selector {
     position: fixed;
-    top: 20px;
+    top: 28px;
     right: 70px;
     display: flex;
     align-items: center;

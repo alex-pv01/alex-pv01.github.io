@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title id="page-title">Loading...</title>
+    <title>À: Loading...</title>
     <meta name="description" content="Thoughts and writings on research, technology, and ideas.">
     <meta property="og:title" content="Àlex Pujol Vidal">
     <meta property="og:site_name" content="Àlex Pujol Vidal">
@@ -161,7 +161,7 @@
 
     <!-- Table of Contents -->
     <nav id="toc" class="toc">
-        <h3>Contents</h3>
+        <h3 data-i18n="post.contents">Contents</h3>
         <ul id="toc-list"></ul>
     </nav>
 
@@ -169,22 +169,22 @@
         <div id="header">
             <nav style="margin-left: 0.2ex">
                 <ul>
-                    <li><a href="../index.html">home</a></li>
-                    <li><a href="../thoughts.html">thoughts</a></li>
+                    <li><a href="../index.html" data-i18n="nav.home">home</a></li>
+                    <li><a href="../thoughts.html" data-i18n="nav.thoughts">thoughts</a></li>
                 </ul>
             </nav>
-            <h1 id="post-title">Loading...</h1>
+            <h1 id="post-title"><span data-i18n="post.loading">Loading...</span></h1>
             <div id="byline">
                 <span style="color: #999;" id="post-date"></span>
             </div>
         </div>
 
         <article id="post-content" class="paragraph">
-            <p>Loading post...</p>
+            <p data-i18n="post.loadingPost">Loading post...</p>
         </article>
 
         <p style="margin-top: 3em; padding-top: 2em; padding-bottom: 3em; border-top: 1pt solid #ddd; color: #999; text-align: center;">
-            <a href="../thoughts.html">← Back to all thoughts</a>
+            <a href="../thoughts.html" data-i18n="post.backToThoughts">← Back to all thoughts</a>
         </p>
     </div>
 
@@ -239,7 +239,6 @@
                     }
 
                     // Update page title and header
-                    document.getElementById('page-title').textContent = `À: ${title}`;
                     document.title = `À: ${title}`;
 
                     // Update meta description with first paragraph or excerpt
@@ -255,10 +254,8 @@
                         ogTitle.setAttribute('content', `${title} - Àlex Pujol Vidal`);
                     }
 
-                    // Highlight first letter of title
-                    const firstLetter = title.charAt(0);
-                    const restOfTitle = title.slice(1);
-                    document.getElementById('post-title').innerHTML = `<span style="color: var(--highlight-first);">${firstLetter}</span>${restOfTitle}`;
+                    // Set post title with highlighted À: prefix
+                    document.getElementById('post-title').innerHTML = `<span style="color: var(--highlight-first);">À: </span>${title}`;
 
                     document.getElementById('post-date').textContent = date;
 

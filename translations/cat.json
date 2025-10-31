@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "home": "inici",
+    "about": "sobre mi",
+    "thoughts": "reflexions"
+  },
+  "home": {
+    "location": "Aalborg, Dinamarca",
+    "role": "Doctorand @ Universitat d'Aalborg",
+    "field": "Matemàtiques ∩ IA ∩ Ciència Cognitiva",
+    "tldr": "resum",
+    "summary": "La meva recerca explora els fonaments geomètrics de la IA multimodal, investigant com els espais no euclidians poden capturar millor la naturalesa jeràrquica i composicional de les dades visuals i temporals. Estic treballant en estendre els models de visió i llenguatge per entendre relacions espai-temporal-semàntiques complexes en vídeo, qüestionant si les representacions hiperbòliques són suficients per si soles o si necessitem nous marcs geomètrics per al raonament temporal."
+  },
+  "about": {
+    "heading": "Sobre mi",
+    "researchFocus": "Focus de recerca",
+    "publications": "Publicacions",
+    "beyondResearch": "Més enllà de la recerca",
+    "intro": "Sóc doctorand a la <a href=\"https://www.en.aau.dk/\">Universitat d'Aalborg</a> treballant al <a href=\"https://vap.aau.dk/\">Visual Analysis and Perception Lab</a>. La meva recerca se centra en els fonaments geomètrics de la IA multimodal, explorant especialment com els espais no euclidians poden capturar millor la naturalesa jeràrquica i composicional de les dades visuals i temporals.",
+    "background": "Vaig completar la meva formació acadèmica a la <a href=\"https://web.ub.edu/en/home\">Universitat de Barcelona</a>, on vaig obtenir una llicenciatura en Matemàtiques i dos màsters en Matemàtica Avançada i Ciència de Dades. Durant els meus estudis de màster, vaig treballar com a ajudant de recerca al <a href=\"https://hupba.com/\">grup HuPBA</a> a Barcelona, abans d'unir-me al VAP Lab de la Universitat d'Aalborg, on actualment faig el doctorat.",
+    "researchPara1": "El meu treball aborda una limitació fonamental dels models actuals de visió i llenguatge: tracten les imatges i el text com a entitats planes, ignorant la seva estructura composicional i jeràrquica inherent. Les escenes visuals són composicions estructurades on els objectes existeixen dins de contextos, formant jerarquies espacials. Quan s'estenen al vídeo, les dinàmiques temporals introdueixen complexitat addicional que les representacions euclidianes convencionals tenen dificultats per capturar.",
+    "researchPara2": "Estic investigant si la geometria hiperbòlica, amb la seva capacitat natural per representar jerarquies, pot capturar adequadament la complexitat completa de les relacions espai-temporal-semàntiques en vídeo. Això inclou explorar enfocaments geomètrics híbrids que podrien combinar espais hiperbòlics per a relacions jeràrquiques amb marcs alternatius per a patrons temporals periòdics o cíclics.",
+    "beyondText": "Al meu temps lliure, ajudo amb el negoci familiar, <a href=\"https://www.insigniespujol.com/ca\">Insígnies Pujol</a>, una empresa de fabricació d'insígnies situada a Barcelona."
+  },
+  "thoughts": {
+    "heading": "Reflexions",
+    "tags": "Etiquetes",
+    "tagAll": "totes",
+    "loading": "Carregant publicacions...",
+    "noPostsFound": "No s'han trobat publicacions amb les etiquetes seleccionades."
+  },
+  "post": {
+    "contents": "Continguts",
+    "loading": "Carregant...",
+    "loadingPost": "Carregant publicació...",
+    "backToThoughts": "← Torna a totes les reflexions"
+  },
+  "meta": {
+    "description": "Recerca i reflexions sobre intel·ligència artificial, aprenentatge automàtic i societat.",
+    "aboutDescription": "Recerca i reflexions sobre intel·ligència artificial, aprenentatge automàtic i societat.",
+    "thoughtsDescription": "Reflexions i escrits sobre recerca, tecnologia i idees.",
+    "titleAbout": "À: sobre mi",
+    "titleThoughts": "À: reflexions"
+  }
+}

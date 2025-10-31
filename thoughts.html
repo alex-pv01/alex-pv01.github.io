@@ -119,7 +119,7 @@
 
     <!-- Tag Filter Sidebar -->
     <nav id="tag-filter">
-        <h3>Tags</h3>
+        <h3 data-i18n="thoughts.tags">Tags</h3>
         <button class="filter-mode-toggle" id="filter-mode-toggle" aria-label="Toggle filter mode">
             <span id="filter-mode-icon">∪</span>
         </button>
@@ -130,17 +130,17 @@
         <div id="header">
             <nav style="margin-left: 0.2ex">
                 <ul>
-                    <li><a href="index.html">home</a></li>
-                    <li><a href="about.html">about me</a></li>
+                    <li><a href="index.html" data-i18n="nav.home">home</a></li>
+                    <li><a href="about.html" data-i18n="nav.about">about me</a></li>
                 </ul>
             </nav>
-            <h1><span style="color: var(--highlight-first);">T</span>houghts <a href="https://substack.com/@lex1768396"><i class="bi bi-substack" style="font-size:0.8em;"></i></a></h1>
+            <h1><span style="color: var(--highlight-first);">À: </span><span data-i18n="thoughts.heading">Thoughts</span> <a href="https://alexpujolv.substack.com/"><i class="bi bi-substack" style="font-size:0.8em;"></i></a></h1>
         </div>
 
         <section class="paragraph" id="posts">
             <!-- Blog post entries -->
             <ul class="org-ul my-stuff" id="posts-list">
-                <li style="color: #999;">Loading posts...</li>
+                <li style="color: #999;" data-i18n="thoughts.loading">Loading posts...</li>
             </ul>
         </section>
 
@@ -257,6 +257,7 @@
         // Add "All" button
         const allButton = document.createElement('span');
         allButton.className = 'tag' + (selectedTags.size === 0 ? ' active' : '');
+        allButton.setAttribute('data-i18n', 'thoughts.tagAll');
         allButton.textContent = 'all';
         allButton.onclick = () => clearTagFilters();
         tagButtons.appendChild(allButton);
@@ -350,7 +351,7 @@
         }
 
         if (filteredPosts.length === 0) {
-            postsList.innerHTML = '<li style="color: #999;">No posts found with the selected tags.</li>';
+            postsList.innerHTML = '<li style="color: #999;" data-i18n="thoughts.noPostsFound">No posts found with the selected tags.</li>';
             return;
         }
 
