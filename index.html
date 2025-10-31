@@ -24,7 +24,7 @@
 	
     <div id="particles-js"></div>
     <div class="content" itemprop="mainEntity" itemtype="https://schema.org/Person" itemscope="">
-        <div style="top:50%; position:absolute; transform: translateY(-50%);">
+        <div class="content-wrapper">
             <nav>
                 <ul>
                     <li><a href="about.html" data-i18n="nav.about">about me</a></li>
@@ -79,6 +79,11 @@
         <span data-lang="dk">dk</span>
     </div>
 
+    <!-- Mobile Menu Toggle -->
+    <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle menu">
+        <i class="bi bi-three-dots-vertical"></i>
+    </button>
+
     <!-- Theme Toggle Button -->
     <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
         <i class="bi bi-moon-fill"></i>
@@ -86,6 +91,7 @@
 
     <script src="js/site.js"></script>
     <script src="js/language.js"></script>
+    <script src="js/mobile-menu.js"></script>
 
 <script>
     window.dataLayer = window.dataLayer || [];

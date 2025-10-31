@@ -5,8 +5,8 @@
     "thoughts": "tanker"
   },
   "home": {
-    "location": "Aalborg, Danmark",
-    "role": "PhD-studerende @ Aalborg Universitet",
+    "location": "Ålborg, Danmark",
+    "role": "PhD-studerende @ Ålborg Universitet",
     "field": "Matematik ∩ AI ∩ Kognitiv Videnskab",
     "tldr": "kort sagt",
     "summary": "Min forskning udforsker de geometriske fundamenter for multimodal AI, og undersøger hvordan ikke-euklidiske rum bedre kan fange den hierarkiske og kompositionelle natur af visuelle og temporale data. Jeg arbejder på at udvide vision-sprog modeller til at forstå komplekse rumlig-temporal-semantiske relationer i video, og stiller spørgsmålstegn ved om hyperbolske repræsentationer alene er tilstrækkelige, eller om vi har brug for nye geometriske rammer for temporal ræsonnering."
@@ -16,8 +16,8 @@
     "researchFocus": "Forskningsfokus",
     "publications": "Publikationer",
     "beyondResearch": "Ud over forskning",
-    "intro": "Jeg er PhD-studerende ved <a href=\"https://www.en.aau.dk/\">Aalborg Universitet</a> og arbejder på <a href=\"https://vap.aau.dk/\">Visual Analysis and Perception Lab</a>. Min forskning fokuserer på de geometriske fundamenter for multimodal AI, og udforsker især hvordan ikke-euklidiske rum bedre kan fange den hierarkiske og kompositionelle natur af visuelle og temporale data.",
-    "background": "Jeg gennemførte min akademiske uddannelse ved <a href=\"https://web.ub.edu/en/home\">Universitet i Barcelona</a>, hvor jeg fik en bachelorgrad i matematik og to kandidatgrader i Avanceret Matematik og Datavidenskab. Under mine kandidatstudier arbejdede jeg som forskningsassistent ved <a href=\"https://hupba.com/\">HuPBA-gruppen</a> i Barcelona, før jeg kom til VAP Lab ved Aalborg Universitet, hvor jeg nu forfølger min PhD.",
+    "intro": "Jeg er PhD-studerende ved <a href=\"https://www.en.aau.dk/\">Ålborg Universitet</a> og arbejder på <a href=\"https://vap.aau.dk/\">Visual Analysis and Perception Lab</a>. Min forskning fokuserer på de geometriske fundamenter for multimodal AI, og udforsker især hvordan ikke-euklidiske rum bedre kan fange den hierarkiske og kompositionelle natur af visuelle og temporale data.",
+    "background": "Jeg gennemførte min akademiske uddannelse ved <a href=\"https://web.ub.edu/en/home\">Universitet i Barcelona</a>, hvor jeg fik en bachelorgrad i matematik og to kandidatgrader i Avanceret Matematik og Datavidenskab. Under mine kandidatstudier arbejdede jeg som forskningsassistent ved <a href=\"https://hupba.com/\">HuPBA-gruppen</a> i Barcelona, før jeg kom til VAP Lab ved Ålborg Universitet, hvor jeg nu forfølger min PhD.",
     "researchPara1": "Mit arbejde adresserer en fundamental begrænsning i nuværende vision-sprog modeller: de behandler billeder og tekst som flade enheder og ignorerer deres iboende kompositionelle og hierarkiske struktur. Visuelle scener er strukturerede kompositionen, hvor objekter eksisterer inden for kontekster og danner rumlige hierarkier. Når det udvides til video, introducerer temporal dynamik yderligere kompleksitet, som konventionelle euklidiske repræsentationer kæmper med at fange.",
     "researchPara2": "Jeg undersøger om hyperbolsk geometri, med sin naturlige kapacitet til at repræsentere hierarkier, tilstrækkeligt kan fange den fulde kompleksitet af rumlig-temporal-semantiske relationer i video. Dette inkluderer udforskning af hybride geometriske tilgange, der kunne kombinere hyperbolske rum for hierarkiske relationer med alternative rammer for periodiske eller cykliske temporale mønstre.",
     "beyondText": "I min fritid hjælper jeg med min families virksomhed, <a href=\"https://www.insigniespujol.com/ca\">Insígnies Pujol</a>, en emblem- og insignieproducent baseret i Barcelona."

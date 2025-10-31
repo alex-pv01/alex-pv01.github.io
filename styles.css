@@ -1,7 +1,15 @@
+/* ========================================
+   FONT IMPORTS
+   ======================================== */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Fira+Code:wght@300..700&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
-/* Light/Dark mode variables */
+
+/* ========================================
+   COLOR SCHEME VARIABLES
+   ======================================== */
+
+/* Light mode colors (default) */
 :root {
     --bg-color: #ffffff;
     --text-color: #000000;
@@ -10,11 +18,12 @@
     --border-color: #eeeeee;
     --code-bg: #f8f9fa;
     --link-color: #000000;
-    --highlight-first: #228B22;
-    --highlight-second: #FF4F00;
-    --highlight-third: #00b0ff;
+    --highlight-first: #228B22;     /* Green - used for name highlight */
+    --highlight-second: #FF4F00;    /* Orange */
+    --highlight-third: #00b0ff;     /* Blue */
 }
 
+/* Dark mode colors */
 [data-theme="dark"] {
     --bg-color: #1a1a1a;
     --text-color: #e0e0e0;
@@ -28,6 +37,11 @@
     --highlight-third: #00b0ff;
 }
 
+
+/* ========================================
+   BASE STYLES
+   ======================================== */
+
 body {
     width: 100vw;
     height: 100vh;
@@ -38,6 +52,7 @@ body {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+/* Headings */
 h1, h2, h3 {
     text-transform: uppercase;
     font-weight: 700;
@@ -49,16 +64,40 @@ h1 {
     margin: 0 0 0.5em 0;
 }
 
+/* Text elements */
 p, li {
     font-size: 1em;
     line-height: 1.5em;
 }
 
+/* Links */
 a, a:visited {
     color: var(--link-color);
     text-decoration: none;
 }
 
+/* Links in paragraphs are italicized */
+p a, p a:visited {
+    font-style: italic;
+}
+
+/* Add link icon after links in sections, blockquotes, and paragraphs */
+section a::after, blockquote a::after, p a::after {
+    content: "\F1C5";  /* Bootstrap icon: link */
+    font-family: "bootstrap-icons" !important;
+    vertical-align: middle;
+    font-weight: 400;
+    margin-left: 0.5ex;
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+/* Don't add link icon to social media links */
+#social a::after {
+    content: none;
+}
+
+/* Code blocks */
 pre {
     font-family: 'Fira Code', monospace;
     font-size: 0.9em;
@@ -69,23 +108,10 @@ pre {
     white-space: pre-wrap;
 }
 
-section a::after, blockquote a::after, p a::after {
-    content: "\F1C5";
-    font-family: "bootstrap-icons" !important;
-    vertical-align: middle;
-    font-weight: 400;
-    margin-left: 0.5ex;
-    font-style: normal;
-    font-size: 0.8em;
-}
 
-#social a::after {
-    content: none;
-}
-
-p a, p a:visited {
-    font-style: italic;
-}
+/* ========================================
+   BLOCKQUOTES
+   ======================================== */
 
 blockquote {
     font-style: italic;
@@ -96,10 +122,11 @@ blockquote {
     border-radius: 10px;
 }
 
+/* Quote icon before blockquote */
 blockquote:before {
     display: block;
     padding: 1.25em 2.5em;
-    content: "\F6B0";
+    content: "\F6B0";  /* Bootstrap icon: quote */
     font-size: 1.5em;
     position: absolute;
     left: 0em;
@@ -107,6 +134,11 @@ blockquote:before {
     font-family: "bootstrap-icons" !important;
 }
 
+blockquote p {
+    padding: 0 2em;
+}
+
+/* Citation styling */
 blockquote cite {
     font-weight: bold;
     font-style: normal;
@@ -114,15 +146,18 @@ blockquote cite {
     margin: 0 1em;
     padding: 0 1em;
 }
-     
+
+/* Em dash before citation */
 blockquote cite:before {
-    content: "\2014 \2009";
+    content: "\2014 \2009";  /* Em dash + thin space */
 }
 
-blockquote p {
-    padding: 0 2em;
-}
 
+/* ========================================
+   SPECIAL TEXT EFFECTS
+   ======================================== */
+
+/* Drop cap for first letter */
 .frst::first-letter {
     font-size: 300%;
     float: left;
@@ -130,8 +165,8 @@ blockquote p {
     line-height: 1;
     font-weight: bold;
 }
-  
-  
+
+/* Decorative mesh gradient background (currently unused) */
 .mesh {
     opacity: 0.6;
     background-color:hsla(200,100%,50%,1);
@@ -144,15 +179,44 @@ blockquote p {
     radial-gradient(at 80% 100%, hsla(242,100%,70%,1) 0px, transparent 50%);
 }
 
+
+/* ========================================
+   LAYOUT STRUCTURE
+   ======================================== */
+
+/* Particle.js background container */
+#particles-js {
+    width: 100%;
+    height: 100vh;
+}
+
+/* Main content container */
+.content {
+    position: absolute;
+    top: 0%;
+    box-sizing: border-box;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 800px;
+    max-width: 100%;
+    padding: 20px 20px;
+}
+
+.content b {
+    font-weight: 700;
+}
+
+
+/* ========================================
+   HEADER & NAVIGATION
+   ======================================== */
+
 #header {
     position: relative;
     padding: 0 0 0.5em 0em;
-    margin: 1em 0;
+    margin: 0em 0;
 }
-
-/* #header a, #header a:visited {
-    color: #fff;
-} */
 
 #byline {
     width: 100%;
@@ -160,6 +224,7 @@ blockquote p {
     clear: both;
 }
 
+/* Navigation menu */
 .content nav ul {
     list-style: none;
     margin: 0;
@@ -171,21 +236,20 @@ blockquote p {
     margin: 0 2em 0 0;
 }
 
+/* Arrow icon before navigation items */
 .content nav ul li::before {
-    content: "\F114";
+    content: "\F114";  /* Bootstrap icon: arrow right */
     font-family: "bootstrap-icons" !important;
     margin-right: 1ex;
     vertical-align: middle;
 }
 
+/* Remove arrow before the link itself */
 .content nav ul li a::before {
     content: none;
 }
 
-.content > nav h3 {
-    font-weight: nol; 
-}
-
+/* Navigation links styling */
 .content ul.links a {
     color: var(--link-color);
 }
@@ -194,66 +258,16 @@ blockquote p {
     content: none;
 }
 
-.content {
-    position: absolute;
-    top: 0%;
-    box-sizing: border-box;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-}
 
-#particles-js {
-    width: 100%;
-    height: 100vh;
-}
-
-.thought img {
-    border-radius: 10px;
-}
-
-@media screen and (max-width: 599px) {
-    .content {
-        width: 100%;
-        padding: 0 2em;
-    }
-
-    .vcard img {
-        width: 25%;
-        max-width: 120px;
-    }
-}
-
-@media screen and (min-width: 600px) {
-    .content {
-        width: 800px;
-        left: 50%;
-        transform: translateX(-50%);
-        padding: 20px 40px;
-    }
-
-    .thought {
-        width: 800px;
-    }
-
-    .thought h1 {
-        font-size: 2em;
-    }
-
-    .vcard img {
-        height: 120px;
-        width: 120px;
-    }
-}
-
-.content b {
-    font-weight: 700;
-}
+/* ========================================
+   PROFILE CARD (VCARD)
+   ======================================== */
 
 .vcard h1 {
     display: inline-block;
 }
 
+/* Profile photo - floats right on desktop */
 .vcard img {
     border-radius: 20%;
     overflow: hidden;
@@ -262,8 +276,19 @@ blockquote p {
     float: right;
 }
 
-.content section { margin-top: 2em; }
-.content section.vcard { margin-top: 0; }
+/* Section spacing */
+.content section {
+    margin-top: 2em;
+}
+
+.content section.vcard {
+    margin-top: 0;
+}
+
+
+/* ========================================
+   SOCIAL MEDIA LINKS
+   ======================================== */
 
 .social ul.links {
     list-style: none;
@@ -279,9 +304,14 @@ blockquote p {
 }
 
 .social ul.links > li:first-child {
-    margin-left: -4em;
+    margin-left: -2em;
 }
 
+/* ========================================
+   CONTENT SECTIONS
+   ======================================== */
+
+/* Divider line */
 .divider::before {
     content: "";
     border-top: 1pt solid #AAA;
@@ -291,12 +321,14 @@ blockquote p {
     margin-bottom: 2em;
 }
 
+/* Paragraph sections */
 .paragraph {
     clear: both;
 }
 
+/* Icon before emphasized text in paragraphs */
 .paragraph p i::before {
-    content: "\F5C8";
+    content: "\F5C8";  /* Bootstrap icon */
     font-family: "bootstrap-icons" !important;
     margin-right: 1ex;
     vertical-align: middle;
@@ -308,6 +340,7 @@ blockquote p {
     margin-right: 2em;
 }
 
+/* Horizontal link bar */
 ul.link-bar {
     list-style: none;
     clear: both;
@@ -319,6 +352,11 @@ ul.link-bar li {
     display: inline;
     margin: 0 1em;
 }
+
+
+/* ========================================
+   CUSTOM LISTS (MY-STUFF)
+   ======================================== */
 
 .my-stuff {
     list-style: none outside;
@@ -334,6 +372,7 @@ ul.my-stuff > li {
     margin-bottom: 1ex;
 }
 
+/* Icon positioning for list items */
 ul.my-stuff > li:before {
     font-family: "bootstrap-icons" !important;
     margin: 0em 1em;
@@ -344,16 +383,39 @@ ul.my-stuff > li:before {
     left: -1.5em;
 }
 
-#share > a { margin-left: 0.5em; }
+/* Share links spacing */
+#share > a {
+    margin-left: 0.5em;
+}
 
+/* Custom icons for specific list items in #stuff section */
 #stuff > ul.my-stuff > li:nth-child(1):before { content: "\F885"; }
 #stuff > ul.my-stuff > li:nth-child(2):before { content: "\F5E7"; }
 #stuff > ul.my-stuff > li:nth-child(3):before { content: "\F828"; }
 #stuff > ul.my-stuff > li:nth-child(4):before { content: "\F444"; }
 
+/* Paper icon for recent papers list */
 #recent-papers > ul.my-stuff > li:before { content: "\F194"; }
 
-/* Theme Toggle Button */
+
+/* ========================================
+   THOUGHTS/BLOG SECTION
+   ======================================== */
+
+.thought img {
+    border-radius: 10px;
+}
+
+
+/* ========================================
+   THEME TOGGLE BUTTON
+   ======================================== */
+
+/* Mobile menu toggle - hidden on desktop */
+.mobile-menu-toggle {
+    display: none;
+}
+
 .theme-toggle {
     position: fixed;
     top: 20px;
@@ -382,15 +444,19 @@ ul.my-stuff > li:before {
     transition: transform 0.3s ease;
 }
 
-/* Invert ORCID SVG in dark mode */
+/* Invert ORCID logo in dark mode */
 [data-theme="dark"] img[src*="orcid.svg"] {
     filter: invert(1);
 }
 
-/* Language selector */
+
+/* ========================================
+   LANGUAGE SELECTOR
+   ======================================== */
+
 .language-selector {
     position: fixed;
-    top: 28px;
+    top: 20px;
     right: 70px;
     display: flex;
     align-items: center;
@@ -403,13 +469,14 @@ ul.my-stuff > li:before {
     cursor: pointer;
     color: var(--text-secondary);
     transition: color 0.2s ease, font-weight 0.2s ease;
-    padding: 0.2em 0.4em;
+    padding: 1em 0.4em;
 }
 
 .language-selector span:hover {
     color: var(--text-color);
 }
 
+/* Active language highlighting */
 .language-selector span.active-en {
     color: var(--highlight-first);
     font-weight: bold;
@@ -428,4 +495,128 @@ ul.my-stuff > li:before {
 .language-selector .separator {
     color: var(--text-secondary);
     cursor: default;
+}
+
+
+/* ========================================
+   RESPONSIVE DESIGN - MOBILE (<500px)
+   ======================================== */
+
+@media screen and (max-width: 499px) {
+    /* Hide theme toggle and language selector by default on mobile */
+    .theme-toggle,
+    .language-selector {
+        display: none;
+    }
+
+    /* Show them when menu is open - positioned absolutely to overlay content */
+    .mobile-menu-open .theme-toggle {
+        display: flex;
+        position: fixed !important;
+        top: 60px !important;
+        right: 15px !important;
+        width: 36px;
+        height: 36px;
+        font-size: 1.1em;
+        z-index: 1001;
+    }
+
+    .mobile-menu-open .language-selector {
+        display: flex;
+        position: fixed !important;
+        top: 67px !important;
+        right: 58px !important;
+        font-size: 0.85em;
+        gap: 0.3em;
+        z-index: 1001;
+    }
+
+    .mobile-menu-open .language-selector span {
+        padding: 0.2em 0.3em;
+    }
+
+    /* Mobile menu toggle button */
+    .mobile-menu-toggle {
+        position: fixed;
+        top: 15px;
+        right: 15px;
+        background: none;
+        border: 1px solid var(--text-secondary);
+        border-radius: 50%;
+        width: 36px;
+        height: 36px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.2em;
+        color: var(--text-color);
+        transition: all 0.3s ease;
+        z-index: 1001;
+    }
+
+    .mobile-menu-toggle:hover {
+        background-color: var(--border-color);
+        transform: scale(1.1);
+    }
+
+    /* Reorder vcard elements: name → location/info → photo → summary */
+    .vcard {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .vcard h1 {
+        order: 1;
+    }
+
+    .vcard p {
+        order: 2;
+    }
+
+    /* Photo appears between info and summary on mobile */
+    .vcard img {
+        order: 3;
+        width: 120px;
+        height: 120px;
+        max-width: 120px;
+        float: none;  /* Remove float on mobile */
+        margin: 1.5em 0;
+    }
+}
+
+
+/* ========================================
+   RESPONSIVE DESIGN - DESKTOP (≥500px)
+   ======================================== */
+
+@media screen and (min-width: 500px) {
+    /* Main content container */
+    .content {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /* Content wrapper - vertically centers on desktop */
+    .content-wrapper {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+
+    /* Thoughts page content width */
+    .thought {
+        width: 800px;
+    }
+
+    .thought h1 {
+        font-size: 2em;
+    }
+
+    /* Profile photo size on desktop */
+    .vcard img {
+        height: 120px;
+        width: 120px;
+    }
 }
