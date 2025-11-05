@@ -1,14 +1,14 @@
 {
   "nav": {
-    "home": "home",
-    "about": "about me",
-    "thoughts": "thoughts"
+    "home": "Home",
+    "about": "About me",
+    "thoughts": "Thoughts"
   },
   "home": {
     "location": "Aalborg, Denmark",
     "role": "PhD Student @ Aalborg University",
     "field": "Mathematics ∩ AI ∩ Cognitive Science",
-    "tldr": "tl;dr",
+    "tldr": "Abstract",
     "summary": "My research explores the geometric foundations of multimodal AI, investigating how non-Euclidean spaces can better capture the hierarchical and compositional nature of visual and temporal data. I'm working on extending vision-language models to understand complex spatio-temporal-semantic relationships in video, questioning whether hyperbolic representations alone are sufficient or if we need novel geometric frameworks for temporal reasoning."
   },
   "about": {
@@ -39,7 +39,7 @@
     "description": "Research and thoughts on artificial intelligence, machine learning, and society.",
     "aboutDescription": "Research and thoughts on artificial intelligence, machine learning, and society.",
     "thoughtsDescription": "Thoughts and writings on research, technology, and ideas.",
-    "titleAbout": "À: about me",
-    "titleThoughts": "À: thoughts"
+    "titleAbout": "À: About me",
+    "titleThoughts": "À: Thoughts"
   }
 }
